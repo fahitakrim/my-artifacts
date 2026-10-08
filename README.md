@@ -11,9 +11,9 @@ This repository serves as the official release and distribution hub. The source 
 ### 1. Orbit Music 🪐
 > *A minimalist, privacy-first offline music player engineered with a Nothing OS & Bauhaus-inspired visual identity.*
 
-[![Version](https://img.shields.io/badge/Version-v2.0.0-E5252A?style=flat-square)](https://github.com/fahitakrim/my-artifacts/releases/tag/orbit-music-v2.0)
-[![Android](https://img.shields.io/badge/Android-8.0%2B-3DDC84?style=flat-square&logo=android&logoColor=white)](https://github.com/fahitakrim/my-artifacts/releases/tag/orbit-music-v2.0)
-[![Status](https://img.shields.io/badge/Type-Offline%20Only-blue?style=flat-square)](https://github.com/fahitakrim/my-artifacts/releases/tag/orbit-music-v2.0)
+[![Version](https://img.shields.io/badge/Version-v2.0.1-E5252A?style=flat-square)](https://github.com/fahitakrim/my-artifacts/releases/tag/orbit-music-v2.0.1)
+[![Android](https://img.shields.io/badge/Android-8.0%2B-3DDC84?style=flat-square&logo=android&logoColor=white)](https://github.com/fahitakrim/my-artifacts/releases/tag/orbit-music-v2.0.1)
+[![Status](https://img.shields.io/badge/Type-Offline%20Only-blue?style=flat-square)](https://github.com/fahitakrim/my-artifacts/releases/tag/orbit-music-v2.0.1)
 
 #### ✨ Key Features
 - **🪐 Curved ArcTimeline Wheel:** Hardware-accelerated 120Hz/60Hz rotating timeline with dynamic node connectors and smoke-dissolve reading zones.
@@ -25,9 +25,9 @@ This repository serves as the official release and distribution hub. The source 
 - **⚡ Fluid Gestures:** Edge swiping across tabs, mini-player swipe dismiss, and circular scrubbers.
 
 #### ⬇️ Download Orbit Music
-[![Download Orbit Music APK](https://img.shields.io/badge/Download-Orbit%20Music%20v2.0%20(APK)-E5252A?style=for-the-badge&logo=android&logoColor=white)](https://github.com/fahitakrim/my-artifacts/releases/download/orbit-music-v2.0/Orbit-Music-v2.0.apk)
+[![Download Orbit Music APK](https://img.shields.io/badge/Download-Orbit%20Music%20v2.0.1%20(APK)-E5252A?style=for-the-badge&logo=android&logoColor=white)](https://github.com/fahitakrim/my-artifacts/releases/download/orbit-music-v2.0.1/Orbit-Music-v2.0.1.apk)
 
-* **Direct GitHub CDN:** [Orbit-Music-v2.0.apk](https://github.com/fahitakrim/my-artifacts/releases/download/orbit-music-v2.0/Orbit-Music-v2.0.apk)
+* **Direct GitHub CDN:** [Orbit-Music-v2.0.1.apk](https://github.com/fahitakrim/my-artifacts/releases/download/orbit-music-v2.0.1/Orbit-Music-v2.0.1.apk)
 * **High-Speed Mirror:** [Download via Gofile](https://gofile.io/d/9p7d2lV2)
 
 ---
