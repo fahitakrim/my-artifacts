@@ -28,7 +28,7 @@ This repository serves as the official release and distribution hub. The source 
 [![Download Orbit Music APK](https://img.shields.io/badge/Download-Orbit%20Music%20v2.0%20(APK)-E5252A?style=for-the-badge&logo=android&logoColor=white)](https://github.com/fahitakrim/my-artifacts/releases/download/orbit-music-v2.0/Orbit-Music-v2.0.apk)
 
 * **Direct GitHub CDN:** [Orbit-Music-v2.0.apk](https://github.com/fahitakrim/my-artifacts/releases/download/orbit-music-v2.0/Orbit-Music-v2.0.apk)
-* **High-Speed Mirror:** [Download via Gofile](https://gofile.io/d/9p7d2lV2)
+* **High-Speed Mirror:** [Download via Gofile](https://gofile.io/d/aDVYdb7T)
 
 ---
 
