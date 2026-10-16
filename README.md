@@ -8,15 +8,17 @@ This repository serves as the official release and distribution hub. The source 
 
 ## 🌟 Featured Artifacts
 
-### 1. Orbit Music 🪐 — First Stable Release
+### 1. Orbit Music 🪐 — Stable Release
 > *A minimalist, privacy-first offline music player engineered with a Nothing OS & Bauhaus-inspired visual identity.*
 
-[![Version](https://img.shields.io/badge/Version-v3.3.1%20Stable-E5252A?style=flat-square)](https://github.com/fahitakrim/my-artifacts/releases/tag/v3.3.1)
-[![Android](https://img.shields.io/badge/Android-8.0%2B-3DDC84?style=flat-square&logo=android&logoColor=white)](https://github.com/fahitakrim/my-artifacts/releases/tag/v3.3.1)
-[![Status](https://img.shields.io/badge/Type-Offline%20Only-blue?style=flat-square)](https://github.com/fahitakrim/my-artifacts/releases/tag/v3.3.1)
-[![Size](https://img.shields.io/badge/Size-8.2%20MB-purple?style=flat-square)](https://github.com/fahitakrim/my-artifacts/releases/tag/v3.3.1)
+[![Version](https://img.shields.io/badge/Version-v3.5.0%20Stable-E5252A?style=flat-square)](https://github.com/fahitakrim/my-artifacts/releases/tag/v3.5.0)
+[![Android](https://img.shields.io/badge/Android-8.0%2B-3DDC84?style=flat-square&logo=android&logoColor=white)](https://github.com/fahitakrim/my-artifacts/releases/tag/v3.5.0)
+[![Status](https://img.shields.io/badge/Type-Offline%20Only-blue?style=flat-square)](https://github.com/fahitakrim/my-artifacts/releases/tag/v3.5.0)
+[![Size](https://img.shields.io/badge/Size-10.1%20MB-purple?style=flat-square)](https://github.com/fahitakrim/my-artifacts/releases/tag/v3.5.0)
 
-#### ✨ Key Features (v3.3.1 Stable)
+#### ✨ Key Features (v3.5.0 Stable)
+- 🔘 **Refined Sort & Filter Sheet with Dedicated DONE Button:** Selecting sort fields no longer prematurely dismisses the sheet; choose Ascending/Descending with the interactive 3D flip card and tap DONE to apply.
+- 🛡️ **Enhanced Crash Prevention & Release Stability:** Full keep rules for Navigation routes, KotlinX Serialization, Media3, Room, and Coil.
 - 🎨 **Official App Launcher Icon:** Brand-new official launcher icon with Android 13+ Nothing OS monochrome themed icon support.
 - 🖼️ **Crisp 512x512 High-Definition Preset Artwork:** Upgraded 25 minimalist preset cover arts to high-resolution with intelligent bucket caching (512px hero card, 128px 120Hz list thumbnails).
 - 🎙️ **Hero Synced Lyrics & Real-Time Calibration:**
@@ -38,11 +40,11 @@ This repository serves as the official release and distribution hub. The source 
 - 🛠️ **Rock-Solid Stability:** Resumes cleanly on replay from ended state, queue wrapping, and resilient ExoPlayer error recovery.
 - ⚡ **In-App Automatic Update Checker:** Seamless background checks against GitHub Releases with clean update changelog modal and direct single-click download.
 
-#### 📲 Download Orbit Music (v3.3.1 Stable)
-[![Download Orbit Music APK](https://img.shields.io/badge/Download-Orbit%20Music%20v3.3.1%20Stable%20(APK)-E5252A?style=for-the-badge&logo=android&logoColor=white)](https://github.com/fahitakrim/my-artifacts/releases/download/v3.3.1/Orbit-Music-v3.3.1.apk)
+#### 📲 Download Orbit Music (v3.5.0 Stable)
+[![Download Orbit Music APK](https://img.shields.io/badge/Download-Orbit%20Music%20v3.5.0%20Stable%20(APK)-E5252A?style=for-the-badge&logo=android&logoColor=white)](https://github.com/fahitakrim/my-artifacts/releases/download/v3.5.0/Orbit-Music-v3.5.0.apk)
 
-* **Direct GitHub CDN:** [Orbit-Music-v3.3.1.apk](https://github.com/fahitakrim/my-artifacts/releases/download/v3.3.1/Orbit-Music-v3.3.1.apk)
-* **Release Page:** [v3.3.1 Stable Release Notes](https://github.com/fahitakrim/my-artifacts/releases/tag/v3.3.1)
+* **Direct GitHub CDN:** [Orbit-Music-v3.5.0.apk](https://github.com/fahitakrim/my-artifacts/releases/download/v3.5.0/Orbit-Music-v3.5.0.apk)
+* **Release Page:** [v3.5.0 Stable Release Notes](https://github.com/fahitakrim/my-artifacts/releases/tag/v3.5.0)
 
 ---
 
