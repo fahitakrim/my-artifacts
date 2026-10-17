@@ -10,7 +10,7 @@
     "Stay tuned for the official release"
   ],
   "actionLabel": "Got It",
-  "minVersionCode": 1,
+  "minVersionCode": 99999,
   "maxVersionCode": 2147483647,
   "isCritical": false
 }
