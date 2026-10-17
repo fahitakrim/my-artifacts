@@ -11,40 +11,32 @@ This repository serves as the official release and distribution hub. The source 
 ### 1. Orbit Music 🪐 — Stable Release
 > *A minimalist, privacy-first offline music player engineered with a Nothing OS & Bauhaus-inspired visual identity.*
 
-[![Version](https://img.shields.io/badge/Version-v3.5.0%20Stable-E5252A?style=flat-square)](https://github.com/fahitakrim/my-artifacts/releases/tag/v3.5.0)
-[![Android](https://img.shields.io/badge/Android-8.0%2B-3DDC84?style=flat-square&logo=android&logoColor=white)](https://github.com/fahitakrim/my-artifacts/releases/tag/v3.5.0)
-[![Status](https://img.shields.io/badge/Type-Offline%20Only-blue?style=flat-square)](https://github.com/fahitakrim/my-artifacts/releases/tag/v3.5.0)
-[![Size](https://img.shields.io/badge/Size-10.1%20MB-purple?style=flat-square)](https://github.com/fahitakrim/my-artifacts/releases/tag/v3.5.0)
+[![Version](https://img.shields.io/badge/Version-v3.5.2%20Stable-E5252A?style=flat-square)](https://github.com/fahitakrim/my-artifacts/releases/tag/v3.5.2)
+[![Android](https://img.shields.io/badge/Android-8.0%2B-3DDC84?style=flat-square&logo=android&logoColor=white)](https://github.com/fahitakrim/my-artifacts/releases/tag/v3.5.2)
+[![Status](https://img.shields.io/badge/Type-Offline%20Only-blue?style=flat-square)](https://github.com/fahitakrim/my-artifacts/releases/tag/v3.5.2)
+[![Size](https://img.shields.io/badge/Size-10.1%20MB-purple?style=flat-square)](https://github.com/fahitakrim/my-artifacts/releases/tag/v3.5.2)
 
-#### ✨ Key Features (v3.5.0 Stable)
+#### ✨ Key Features (v3.5.2 Stable)
+- 📢 **Wallpaper App Announcement (Non-Forced):** Built-in announcement banner for our upcoming Nothing OS & Bauhaus wallpaper app, triggering cleanly on library rescan without forcing or nagging users.
+- 🪟 **Universal Edge-to-Edge Nothing OS Bottom Sheets:** Unified `#18181A` sheets with centered pill handles across Folder Filtering, Playlists, Cover Art Picker, and Lyrics Search.
+- 🔴 **Status Bar Indicator & Notification Dot:** Authentic status bar indicator dot when music is running in the background.
+- 🎮 **In-Notification Media Controls:** Quick **Favorite** toggle and **Close** button directly inside Android's media player notification shade.
+- 🏷️ **Working Metadata & Tag Editor:** Fully functional Nothing OS styled Tag Editor sheet (`TagEditorSheet`) to edit Title, Artist, Album, Year, and Track Number.
+- 🗑️ **Scoped Storage Track Deletion:** Reliable track deletion on physical storage across Android 10, 11, 12, 13, 14, and 15 with automatic queue and library cleanup.
+- 📐 **Continuous Dynamic Layout Adaptability:** Fluid scaling across all screen sizes (320dp to 480dp+) without vertical text wrapping or squeezed badges.
 - 🔘 **Refined Sort & Filter Sheet with Dedicated DONE Button:** Selecting sort fields no longer prematurely dismisses the sheet; choose Ascending/Descending with the interactive 3D flip card and tap DONE to apply.
-- 🛡️ **Enhanced Crash Prevention & Release Stability:** Full keep rules for Navigation routes, KotlinX Serialization, Media3, Room, and Coil.
-- 🎨 **Official App Launcher Icon:** Brand-new official launcher icon with Android 13+ Nothing OS monochrome themed icon support.
-- 🖼️ **Crisp 512x512 High-Definition Preset Artwork:** Upgraded 25 minimalist preset cover arts to high-resolution with intelligent bucket caching (512px hero card, 128px 120Hz list thumbnails).
-- 🎙️ **Hero Synced Lyrics & Real-Time Calibration:**
-  - Compact rounded hero card keeping all bottom playback controls accessible.
-  - Floating real-time offset tuning pill (`[-0.5s]`, `[+0.5s]`).
-  - Seamless downward swipe gesture to return to cover/disc.
-  - Clean bottom bar with duplicate lyrics buttons removed.
+- 🎙️ **Hero Synced Lyrics & Real-Time Calibration:** Floating offset tuning pill (`[-0.5s]`, `[+0.5s]`) with downward swipe return gesture.
 - 🎛️ **Now Playing Equalizer:** Dedicated equalizer button on bottom action bar opening a floating modal sheet.
-- 🌓 **Dual-Theme Perfection (Boxy & Circle):**
-  - **Boxy Theme:** Vertically centered album art card, linear progress scrubber matching image width, and squircle controls in both normal and lyrics modes.
-  - **Circle Theme:** Centered vinyl jog-wheel with touch disambiguation between rotary scrub and linear horizontal track skip.
-- 👆 **Intuitive Touch & Swipe Gestures:**
-  - Swipe Left / Right on album art & disc to skip to Next / Previous track.
-  - MiniPlayer Swipe Up to open Now Playing, Swipe Down to dismiss/stop playback, and horizontal progress scrubbing.
-- 📊 **Track Play Count:** Dynamic play count tracking displayed on the audio specs row, with customization toggle in Settings.
-- 🎧 **Rich 3-Line Audio Specs & Quick Specs Pill:** Shows Title, Artist, and `[HD] Format • Bitrate • Sample Rate` directly in song lists, plus an audio specs pill in Now Playing.
-- 🪐 **Curved ArcTimeline Wheel:** Hardware-accelerated 120Hz/60Hz rotating timeline with dynamic node connectors.
-- 📂 **Smart Library & Folder Filtering:** Reactive folder whitelist & blacklist, custom playlists, advanced sort modes.
-- 🛠️ **Rock-Solid Stability:** Resumes cleanly on replay from ended state, queue wrapping, and resilient ExoPlayer error recovery.
+- 🌓 **Dual-Theme Perfection (Boxy & Circle):** Large album art card or centered vinyl jog-wheel with touch disambiguation.
+- 📊 **Track Play Count & Listening Analytics:** Dynamic play count tracking and full-fidelity Listening Stats screen.
+- 🎧 **Rich 3-Line Audio Specs & Quick Specs Pill:** Shows Title, Artist, and `[HD] Format • Bitrate • Sample Rate` directly in song lists.
 - ⚡ **In-App Automatic Update Checker:** Seamless background checks against GitHub Releases with clean update changelog modal and direct single-click download.
 
-#### 📲 Download Orbit Music (v3.5.0 Stable)
-[![Download Orbit Music APK](https://img.shields.io/badge/Download-Orbit%20Music%20v3.5.0%20Stable%20(APK)-E5252A?style=for-the-badge&logo=android&logoColor=white)](https://github.com/fahitakrim/my-artifacts/releases/download/v3.5.0/Orbit-Music-v3.5.0.apk)
+#### 📲 Download Orbit Music (v3.5.2 Stable)
+[![Download Orbit Music APK](https://img.shields.io/badge/Download-Orbit%20Music%20v3.5.2%20Stable%20(APK)-E5252A?style=for-the-badge&logo=android&logoColor=white)](https://github.com/fahitakrim/my-artifacts/releases/download/v3.5.2/Orbit-Music-v3.5.2.apk)
 
-* **Direct GitHub CDN:** [Orbit-Music-v3.5.0.apk](https://github.com/fahitakrim/my-artifacts/releases/download/v3.5.0/Orbit-Music-v3.5.0.apk)
-* **Release Page:** [v3.5.0 Stable Release Notes](https://github.com/fahitakrim/my-artifacts/releases/tag/v3.5.0)
+* **Direct GitHub CDN:** [Orbit-Music-v3.5.2.apk](https://github.com/fahitakrim/my-artifacts/releases/download/v3.5.2/Orbit-Music-v3.5.2.apk)
+* **Release Page:** [v3.5.2 Stable Release Notes](https://github.com/fahitakrim/my-artifacts/releases/tag/v3.5.2)
 
 ---
 
