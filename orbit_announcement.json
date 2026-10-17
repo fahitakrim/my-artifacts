@@ -1,0 +1,16 @@
+{
+  "id": "orbit-wallpaper-app-announcement",
+  "title": "WALLPAPER APP COMING SOON",
+  "date": "October 2026",
+  "badge": "UPCOMING",
+  "summary": "We are excited to announce that we are releasing a brand new Nothing OS & Bauhaus-inspired Wallpaper App soon!",
+  "highlights": [
+    "Curated AMOLED & Bauhaus aesthetics",
+    "Tailored exclusively for Nothing OS & minimal setups",
+    "Stay tuned for the official release"
+  ],
+  "actionLabel": "Got It",
+  "minVersionCode": 1,
+  "maxVersionCode": 2147483647,
+  "isCritical": false
+}
