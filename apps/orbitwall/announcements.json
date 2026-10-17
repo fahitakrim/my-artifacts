@@ -1,0 +1,25 @@
+{
+  "announcements": [
+    {
+      "id": "orbitwall-v1-launch",
+      "title": "Orbitwall v1.0 Released",
+      "badge": "OFFICIAL LAUNCH",
+      "date": "October 2026",
+      "description": "Welcome to the all-new Nothing OS design system with Dot-Matrix typography, 4 live lock screen clock faces, and smooth wallpaper swiping."
+    },
+    {
+      "id": "orbitwall-cloud-cdn",
+      "title": "Virtual Cloud Catalog",
+      "badge": "FAST EDGE CDN",
+      "date": "October 2026",
+      "description": "Wallpapers and full-resolution assets are streamed via ultra-fast edge CDN servers, keeping app size tiny and responsive."
+    },
+    {
+      "id": "orbitwall-community",
+      "title": "Community & Support",
+      "badge": "CONNECT",
+      "date": "October 2026",
+      "description": "Got suggestions or wallpaper requests? Reach out directly via Facebook or X (Twitter) using the developer links in Settings."
+    }
+  ]
+}
