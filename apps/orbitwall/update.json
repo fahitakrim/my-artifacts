@@ -1,14 +1,13 @@
 {
-  "latestVersion": "1.1.2",
-  "versionCode": 4,
+  "latestVersion": "1.1.3",
+  "versionCode": 5,
   "releaseDate": "October 2026",
-  "downloadUrl": "https://github.com/fahitakrim/my-artifacts/releases/download/orbitwall-v1.1.2/Orbitwall-v1.1.2.apk",
-  "releasePageUrl": "https://github.com/fahitakrim/my-artifacts/releases/tag/orbitwall-v1.1.2",
+  "downloadUrl": "https://github.com/fahitakrim/my-artifacts/releases/download/orbitwall-v1.1.3/Orbitwall-v1.1.3.apk",
+  "releasePageUrl": "https://github.com/fahitakrim/my-artifacts/releases/tag/orbitwall-v1.1.3",
   "changelog": [
-    "Expanded to 111 curated wallpapers (37 new remastered 2K AMOLED & Minimal additions)",
-    "Refined Nothing OS bottom sheets with authentic rounded handles and fluid physics",
-    "Real download metric calibration across all wallpaper collections",
-    "Edge-to-edge system bar polish and optimized initial catalog load"
+    "Global Admin Cloud Sync: Featured picks, welcome showcase, rankings, and hidden wallpapers now sync globally via GitHub",
+    "Google Sheets Telemetry: Direct webhook integration with Google Sheets for unified real-time download tracking",
+    "111 Curated 2K Wallpapers with instant offline caching and Nothing OS Dot-Matrix typography"
   ],
   "isCritical": false
 }

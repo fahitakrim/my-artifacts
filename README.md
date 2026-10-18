@@ -6,6 +6,17 @@ This repository serves as the official release and distribution hub. The source 
 
 ---
 
+## ⚡ Direct Downloads (Quick Hub)
+
+| Application | Latest Version | Status | One-Click Direct Download | Release Notes |
+| :--- | :--- | :--- | :--- | :--- |
+| 🪐 **Orbitwall** | **v1.1.3** | 🟢 Latest | [⬇️ **Download Orbitwall APK**](https://github.com/fahitakrim/my-artifacts/releases/download/orbitwall-latest/Orbitwall.apk) | [v1.1.3 Notes](https://github.com/fahitakrim/my-artifacts/releases/tag/orbitwall-v1.1.3) |
+| 🎵 **Orbit Music** | **v3.5.4** | 🟢 Stable | [⬇️ **Download Orbit Music APK**](https://github.com/fahitakrim/my-artifacts/releases/download/v3.5.4/Orbit-Music-v3.5.4.apk) | [v3.5.4 Notes](https://github.com/fahitakrim/my-artifacts/releases/tag/v3.5.4) |
+
+> 🔗 **Permanent Universal Download:** [Orbitwall Latest APK](https://github.com/fahitakrim/my-artifacts/releases/download/orbitwall-latest/Orbitwall.apk) (this link always serves the newest release!).
+
+---
+
 ## 🌟 Featured Artifacts
 
 ### 1. Orbit Music 🎵 — Stable Release
@@ -35,24 +46,26 @@ This repository serves as the official release and distribution hub. The source 
 ### 2. Orbitwall 🪐 — Latest Release
 > *A minimalist, high-performance 4K wallpaper application crafted with an authentic Nothing OS visual identity, Dot-Matrix typography, and live lock screen clock preview faces.*
 
-[![Version](https://img.shields.io/badge/Version-v1.1.2%20Latest-E51C23?style=flat-square)](https://github.com/fahitakrim/my-artifacts/releases/tag/orbitwall-v1.1.2)
-[![Android](https://img.shields.io/badge/Android-7.0%2B-3DDC84?style=flat-square&logo=android&logoColor=white)](https://github.com/fahitakrim/my-artifacts/releases/tag/orbitwall-v1.1.2)
-[![Status](https://img.shields.io/badge/Type-Cloud%20Edge%20%2B%20Offline-black?style=flat-square)](https://github.com/fahitakrim/my-artifacts/releases/tag/orbitwall-v1.1.2)
-[![Size](https://img.shields.io/badge/Size-19.2%20MB-purple?style=flat-square)](https://github.com/fahitakrim/my-artifacts/releases/tag/orbitwall-v1.1.2)
+[![Version](https://img.shields.io/badge/Version-v1.1.3%20Latest-E51C23?style=flat-square)](https://github.com/fahitakrim/my-artifacts/releases/tag/orbitwall-v1.1.3)
+[![Android](https://img.shields.io/badge/Android-7.0%2B-3DDC84?style=flat-square&logo=android&logoColor=white)](https://github.com/fahitakrim/my-artifacts/releases/tag/orbitwall-v1.1.3)
+[![Status](https://img.shields.io/badge/Type-Cloud%20Edge%20%2B%20Offline-black?style=flat-square)](https://github.com/fahitakrim/my-artifacts/releases/tag/orbitwall-v1.1.3)
+[![Size](https://img.shields.io/badge/Size-13.0%20MB-purple?style=flat-square)](https://github.com/fahitakrim/my-artifacts/releases/tag/orbitwall-v1.1.3)
 
-#### ✨ Key Features (v1.1.2)
+#### ✨ Key Features (v1.1.3)
+- ☁️ **Global Admin Cloud Sync:** Featured picks, welcome showcase, and rankings sync globally via GitHub.
+- 📊 **Google Sheets Telemetry:** Direct webhook integration for unified real-time download analytics.
 - 🌌 **111 Handcrafted Wallpapers:** 37 new remastered 2K AMOLED, Anime, and Bauhaus minimal additions.
 - 🔴 **Nothing OS Design Identity:** Pure monochrome palette, `#E51C23` red accents, and authentic Dot-Matrix typography.
-- ⏰ **Interactive Lock Screen Clocks:** 4 customizable ambient clock dials (Dot-Matrix, Stacked Bold, Analog Blueprint dial, and Minimal Clean) with live tap-to-switch preview.
+- ⏰ **Interactive Lock Screen Clocks:** 4 customizable ambient clock dials with live tap-to-switch preview.
 - 👆 **Fluid Horizontal Swiping & Sheets:** Swipe seamlessly between full-resolution wallpapers and enjoy smooth bottom sheets.
-- ☁️ **Virtual Cloud Storage Engine:** High-resolution wallpapers streamed on-demand via global edge CDN.
 - 💾 **Offline Favorites & Smart Cache:** Instant offline access to your saved wallpapers.
 
-#### 📲 Download Orbitwall (v1.1.2)
-[![Download Orbitwall APK](https://img.shields.io/badge/Download-Orbitwall%20v1.1.2%20(APK)-E51C23?style=for-the-badge&logo=android&logoColor=white)](https://github.com/fahitakrim/my-artifacts/releases/download/orbitwall-v1.1.2/Orbitwall-v1.1.2.apk)
+#### 📲 Download Orbitwall (v1.1.3)
+[![Download Orbitwall APK](https://img.shields.io/badge/Download-Orbitwall%20v1.1.3%20(APK)-E51C23?style=for-the-badge&logo=android&logoColor=white)](https://github.com/fahitakrim/my-artifacts/releases/download/orbitwall-latest/Orbitwall.apk)
 
-* **Direct Download:** [Orbitwall-v1.1.2.apk](https://github.com/fahitakrim/my-artifacts/releases/download/orbitwall-v1.1.2/Orbitwall-v1.1.2.apk)
-* **Release Page:** [v1.1.2 Release Notes](https://github.com/fahitakrim/my-artifacts/releases/tag/orbitwall-v1.1.2)
+* **Direct Universal Download:** [Orbitwall.apk](https://github.com/fahitakrim/my-artifacts/releases/download/orbitwall-latest/Orbitwall.apk)
+* **Direct v1.1.3 Download:** [Orbitwall-v1.1.3.apk](https://github.com/fahitakrim/my-artifacts/releases/download/orbitwall-v1.1.3/Orbitwall-v1.1.3.apk)
+* **Release Page:** [v1.1.3 Release Notes](https://github.com/fahitakrim/my-artifacts/releases/tag/orbitwall-v1.1.3)
 
 ---
 
