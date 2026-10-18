@@ -32,27 +32,27 @@ This repository serves as the official release and distribution hub. The source 
 
 ---
 
-### 2. Orbitwall 🪐 — Official Launch
+### 2. Orbitwall 🪐 — Latest Release
 > *A minimalist, high-performance 4K wallpaper application crafted with an authentic Nothing OS visual identity, Dot-Matrix typography, and live lock screen clock preview faces.*
 
-[![Version](https://img.shields.io/badge/Version-v1.0.0%20Official-E51C23?style=flat-square)](https://github.com/fahitakrim/Orbitwall/releases/tag/v1.0.0)
-[![Android](https://img.shields.io/badge/Android-7.0%2B-3DDC84?style=flat-square&logo=android&logoColor=white)](https://github.com/fahitakrim/Orbitwall/releases/tag/v1.0.0)
-[![Status](https://img.shields.io/badge/Type-Cloud%20Edge%20%2B%20Offline-black?style=flat-square)](https://github.com/fahitakrim/Orbitwall/releases/tag/v1.0.0)
-[![Size](https://img.shields.io/badge/Size-19.3%20MB-purple?style=flat-square)](https://github.com/fahitakrim/Orbitwall/releases/tag/v1.0.0)
+[![Version](https://img.shields.io/badge/Version-v1.1.2%20Latest-E51C23?style=flat-square)](https://github.com/fahitakrim/my-artifacts/releases/tag/orbitwall-v1.1.2)
+[![Android](https://img.shields.io/badge/Android-7.0%2B-3DDC84?style=flat-square&logo=android&logoColor=white)](https://github.com/fahitakrim/my-artifacts/releases/tag/orbitwall-v1.1.2)
+[![Status](https://img.shields.io/badge/Type-Cloud%20Edge%20%2B%20Offline-black?style=flat-square)](https://github.com/fahitakrim/my-artifacts/releases/tag/orbitwall-v1.1.2)
+[![Size](https://img.shields.io/badge/Size-19.2%20MB-purple?style=flat-square)](https://github.com/fahitakrim/my-artifacts/releases/tag/orbitwall-v1.1.2)
 
-#### ✨ Key Features (v1.0.0 Official)
+#### ✨ Key Features (v1.1.2)
+- 🌌 **111 Handcrafted Wallpapers:** 37 new remastered 2K AMOLED, Anime, and Bauhaus minimal additions.
 - 🔴 **Nothing OS Design Identity:** Pure monochrome palette, `#E51C23` red accents, and authentic Dot-Matrix typography.
 - ⏰ **Interactive Lock Screen Clocks:** 4 customizable ambient clock dials (Dot-Matrix, Stacked Bold, Analog Blueprint dial, and Minimal Clean) with live tap-to-switch preview.
-- 👆 **Fluid Horizontal Swiping:** Swipe seamlessly between full-resolution wallpapers on the detail screen.
-- ☁️ **Virtual Cloud Storage Engine:** High-resolution wallpapers and thumbnails streamed on-demand via global edge CDN, keeping the app lightweight.
-- 💾 **Offline Favorites & Smart Cache:** Instant offline access to your saved wallpapers with one-click Coil memory cache management.
+- 👆 **Fluid Horizontal Swiping & Sheets:** Swipe seamlessly between full-resolution wallpapers and enjoy smooth bottom sheets.
+- ☁️ **Virtual Cloud Storage Engine:** High-resolution wallpapers streamed on-demand via global edge CDN.
+- 💾 **Offline Favorites & Smart Cache:** Instant offline access to your saved wallpapers.
 
-#### 📲 Download Orbitwall (v1.0.0 Official)
-[![Download Orbitwall APK](https://img.shields.io/badge/Download-Orbitwall%20v1.0.0%20(APK)-E51C23?style=for-the-badge&logo=android&logoColor=white)](https://github.com/fahitakrim/Orbitwall/releases/download/v1.0.0/Orbitwall-v1.0.0.apk)
+#### 📲 Download Orbitwall (v1.1.2)
+[![Download Orbitwall APK](https://img.shields.io/badge/Download-Orbitwall%20v1.1.2%20(APK)-E51C23?style=for-the-badge&logo=android&logoColor=white)](https://github.com/fahitakrim/my-artifacts/releases/download/orbitwall-v1.1.2/Orbitwall-v1.1.2.apk)
 
-* **Direct GitHub CDN:** [Orbitwall-v1.0.0.apk](https://github.com/fahitakrim/Orbitwall/releases/download/v1.0.0/Orbitwall-v1.0.0.apk)
-* **Release Page:** [v1.0.0 Official Release Notes](https://github.com/fahitakrim/Orbitwall/releases/tag/v1.0.0)
-* **Source Repository:** [fahitakrim/Orbitwall](https://github.com/fahitakrim/Orbitwall)
+* **Direct Download:** [Orbitwall-v1.1.2.apk](https://github.com/fahitakrim/my-artifacts/releases/download/orbitwall-v1.1.2/Orbitwall-v1.1.2.apk)
+* **Release Page:** [v1.1.2 Release Notes](https://github.com/fahitakrim/my-artifacts/releases/tag/orbitwall-v1.1.2)
 
 ---
 
