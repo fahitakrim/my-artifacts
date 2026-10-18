@@ -1,16 +1,18 @@
 {
-  "id": "orbit-wallpaper-app-announcement",
-  "title": "WALLPAPER APP COMING SOON",
+  "id": "orbitwall-launch-v1",
+  "title": "ORBITWALL IS HERE",
   "date": "October 2026",
-  "badge": "UPCOMING",
-  "summary": "We are excited to announce that we are releasing a brand new Nothing OS & Bauhaus-inspired Wallpaper App soon!",
+  "badge": "NEW APP",
+  "summary": "Discover Orbitwall — a minimalist 4K wallpaper app crafted with Nothing OS aesthetics, Dot-Matrix typography, and live lock screen clock preview faces.",
   "highlights": [
-    "Curated AMOLED & Bauhaus aesthetics",
-    "Tailored exclusively for Nothing OS & minimal setups",
-    "Stay tuned for the official release"
+    "4K AMOLED & Bauhaus curated wallpapers",
+    "Interactive Nothing OS lock screen clock faces",
+    "Offline favorites and fast on-demand streaming"
   ],
-  "actionLabel": "Got It",
-  "minVersionCode": 99999,
+  "actionLabel": "Get Orbitwall",
+  "actionUrl": "https://github.com/fahitakrim/Orbitwall/releases/tag/v1.0.0",
+  "secondaryActionLabel": "Dismiss",
+  "minVersionCode": 1,
   "maxVersionCode": 2147483647,
   "isCritical": false
 }
