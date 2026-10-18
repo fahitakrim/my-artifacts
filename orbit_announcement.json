@@ -1,15 +1,15 @@
 {
-  "id": "orbitwall-launch-v1",
-  "title": "ORBITWALL IS HERE",
+  "id": "orbitwall-beta-preview-v1",
+  "title": "ORBITWALL BETA PREVIEW",
   "date": "October 2026",
-  "badge": "NEW APP",
-  "summary": "Discover Orbitwall — a minimalist 4K wallpaper app crafted with Nothing OS aesthetics, Dot-Matrix typography, and live lock screen clock preview faces.",
+  "badge": "BETA",
+  "summary": "Orbitwall is not officially released yet, but if you'd like to try the early beta version and test out the new features, you can download it now!",
   "highlights": [
-    "4K AMOLED & Bauhaus curated wallpapers",
-    "Interactive Nothing OS lock screen clock faces",
-    "Offline favorites and fast on-demand streaming"
+    "Early beta build for community preview & feedback",
+    "Curated 4K AMOLED & Bauhaus wallpapers",
+    "Interactive Nothing OS lock screen clock faces"
   ],
-  "actionLabel": "Get Orbitwall",
+  "actionLabel": "Try Beta",
   "actionUrl": "https://github.com/fahitakrim/Orbitwall/releases/tag/v1.0.0",
   "secondaryActionLabel": "Dismiss",
   "minVersionCode": 1,
