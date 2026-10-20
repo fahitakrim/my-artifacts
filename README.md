@@ -8,10 +8,10 @@ This repository serves as the official release and distribution hub. The source 
 
 ## ⚡ Direct Downloads (Quick Hub)
 
-| Application | Latest Version | Status | One-Click Direct Download | Release Notes |
+| Application | Latest Version | App Details & Description | One-Click Direct Download | Release Notes |
 | :--- | :--- | :--- | :--- | :--- |
-| 🪐 **Orbitwall** | **v1.1.3** | 🟢 Latest | [⬇️ **Download Orbitwall APK**](https://github.com/fahitakrim/my-artifacts/releases/download/orbitwall-latest/Orbitwall.apk) | [v1.1.3 Notes](https://github.com/fahitakrim/my-artifacts/releases/tag/orbitwall-v1.1.3) |
-| 🎵 **Orbit Music** | **v3.5.4** | 🟢 Stable | [⬇️ **Download Orbit Music APK**](https://github.com/fahitakrim/my-artifacts/releases/download/v3.5.4/Orbit-Music-v3.5.4.apk) | [v3.5.4 Notes](https://github.com/fahitakrim/my-artifacts/releases/tag/v3.5.4) |
+| 🪐 **Orbitwall** | **v1.1.3** | 4K wallpaper app with live Nothing OS lock screen clock faces | [⬇️ **Download Orbitwall APK**](https://github.com/fahitakrim/my-artifacts/releases/download/orbitwall-latest/Orbitwall.apk) | [v1.1.3 Notes](https://github.com/fahitakrim/my-artifacts/releases/tag/orbitwall-v1.1.3) |
+| 🎵 **Orbit Music** | **v3.5.5** | Minimalist offline music player with Nothing OS & Bauhaus design | [⬇️ **Download Orbit Music APK**](https://github.com/fahitakrim/my-artifacts/releases/download/v3.5.5/Orbit-Music-v3.5.5.apk) | [v3.5.5 Notes](https://github.com/fahitakrim/my-artifacts/releases/tag/v3.5.5) |
 
 > 🔗 **Permanent Universal Download:** [Orbitwall Latest APK](https://github.com/fahitakrim/my-artifacts/releases/download/orbitwall-latest/Orbitwall.apk) (this link always serves the newest release!).
 
