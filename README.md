@@ -28,10 +28,11 @@ This repository serves as the official release and distribution hub. The source 
 [![Size](https://img.shields.io/badge/Size-10.6%20MB-purple?style=flat-square)](https://github.com/fahitakrim/my-artifacts/releases/tag/v3.5.5)
 
 #### ✨ Key Features (v3.5.5 Stable)
-- 📂 **Collapsible Settings Sections:** Clean accordion dropdowns for all major settings categories with Nothing OS animations.
-- ⚡ **Multi-App Conflict-Free Updates:** Smart asset filtering ensuring Orbit Music updates reliably alongside other artifact apps.
-- 📢 **Dual-Mode Announcement System:** Remote control for manual vs push announcements without unwanted popups.
-- 🤖 **Android 11 Compatibility:** Resolved permission, vibration haptics, and MediaStore scanning quirks on Android 11.
+- 📂 **Collapsible Settings:** Clean accordion dropdowns for easy navigation.
+- 🤖 **Android 11 Fix:** Resolved permission issues and audio scanning on Android 11.
+- ⚡ **Smoother Controls:** Refined playback controls and tactile haptic feedback.
+- 🛠️ **Stability:** General bug fixes and performance improvements.
+
 - 🏷️ **Edit Song Details:** Easily edit track title, artist, and album details directly in the app.
 - 🎮 **Improved Notification Controls:** Added quick Favorite and Close buttons in the notification panel.
 - 🗑️ **Delete Songs:** Option to remove songs directly from device storage.
@@ -89,3 +90,4 @@ Stay tuned for new applications, tools, and experiments! Each new release will b
 
 ## 🔒 Distribution Note
 All binaries provided in this repository are compiled directly from source and verified. Redistribution or reverse engineering without permission is prohibited.
+
