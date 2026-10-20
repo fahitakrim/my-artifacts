@@ -1,0 +1,22 @@
+{
+  "id": "orbitwall-official-launch-v1",
+  "title": "ORBITWALL 🪐",
+  "date": "October 2026",
+  "badge": "WALLPAPERS",
+  "summary": "Meet Orbitwall — our minimalist 4K wallpaper application engineered with Nothing OS & Bauhaus visual identity, Dot-Matrix typography, and live lock screen clock preview faces. Now officially available on our Artifacts hub!",
+  "highlights": [
+    "Handcrafted 4K AMOLED, Monochrome & Bauhaus wallpapers",
+    "Interactive Nothing OS lock screen clock faces with live preview",
+    "Fluid horizontal wallpaper gallery swiping",
+    "Ultra-lightweight edge CDN streaming with smart offline cache",
+    "Download official APK directly from our My Artifacts hub"
+  ],
+  "actionLabel": "Get on Artifacts",
+  "actionUrl": "https://github.com/fahitakrim/my-artifacts#2-orbitwall---official-launch",
+  "secondaryActionLabel": "Dismiss",
+  "minVersionCode": 1,
+  "maxVersionCode": 2147483647,
+  "isCritical": false,
+  "autoShow": false,
+  "mode": "manual"
+}

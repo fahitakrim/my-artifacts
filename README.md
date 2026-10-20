@@ -22,12 +22,16 @@ This repository serves as the official release and distribution hub. The source 
 ### 1. Orbit Music 🎵 — Stable Release
 > *A minimalist, privacy-first offline music player engineered with a Nothing OS & Bauhaus-inspired visual identity.*
 
-[![Version](https://img.shields.io/badge/Version-v3.5.4%20Stable-E5252A?style=flat-square)](https://github.com/fahitakrim/my-artifacts/releases/tag/v3.5.4)
-[![Android](https://img.shields.io/badge/Android-8.0%2B-3DDC84?style=flat-square&logo=android&logoColor=white)](https://github.com/fahitakrim/my-artifacts/releases/tag/v3.5.4)
-[![Status](https://img.shields.io/badge/Type-Offline%20Only-blue?style=flat-square)](https://github.com/fahitakrim/my-artifacts/releases/tag/v3.5.4)
-[![Size](https://img.shields.io/badge/Size-10.1%20MB-purple?style=flat-square)](https://github.com/fahitakrim/my-artifacts/releases/tag/v3.5.4)
+[![Version](https://img.shields.io/badge/Version-v3.5.5%20Stable-E5252A?style=flat-square)](https://github.com/fahitakrim/my-artifacts/releases/tag/v3.5.5)
+[![Android](https://img.shields.io/badge/Android-8.0%2B-3DDC84?style=flat-square&logo=android&logoColor=white)](https://github.com/fahitakrim/my-artifacts/releases/tag/v3.5.5)
+[![Status](https://img.shields.io/badge/Type-Offline%20Only-blue?style=flat-square)](https://github.com/fahitakrim/my-artifacts/releases/tag/v3.5.5)
+[![Size](https://img.shields.io/badge/Size-10.6%20MB-purple?style=flat-square)](https://github.com/fahitakrim/my-artifacts/releases/tag/v3.5.5)
 
-#### ✨ Key Features (v3.5.4 Stable)
+#### ✨ Key Features (v3.5.5 Stable)
+- 📂 **Collapsible Settings Sections:** Clean accordion dropdowns for all major settings categories with Nothing OS animations.
+- ⚡ **Multi-App Conflict-Free Updates:** Smart asset filtering ensuring Orbit Music updates reliably alongside other artifact apps.
+- 📢 **Dual-Mode Announcement System:** Remote control for manual vs push announcements without unwanted popups.
+- 🤖 **Android 11 Compatibility:** Resolved permission, vibration haptics, and MediaStore scanning quirks on Android 11.
 - 🏷️ **Edit Song Details:** Easily edit track title, artist, and album details directly in the app.
 - 🎮 **Improved Notification Controls:** Added quick Favorite and Close buttons in the notification panel.
 - 🗑️ **Delete Songs:** Option to remove songs directly from device storage.
@@ -35,11 +39,11 @@ This repository serves as the official release and distribution hub. The source 
 - 🪟 **Updated Bottom Sheets:** Sleek, consistent edge-to-edge sheets and fluid touch interaction.
 - ⚡ **In-App Automatic Update Checker:** Seamless background checks with one-click direct update.
 
-#### 📲 Download Orbit Music (v3.5.4 Stable)
-[![Download Orbit Music APK](https://img.shields.io/badge/Download-Orbit%20Music%20v3.5.4%20Stable%20(APK)-E5252A?style=for-the-badge&logo=android&logoColor=white)](https://github.com/fahitakrim/my-artifacts/releases/download/v3.5.4/Orbit-Music-v3.5.4.apk)
+#### 📲 Download Orbit Music (v3.5.5 Stable)
+[![Download Orbit Music APK](https://img.shields.io/badge/Download-Orbit%20Music%20v3.5.5%20Stable%20(APK)-E5252A?style=for-the-badge&logo=android&logoColor=white)](https://github.com/fahitakrim/my-artifacts/releases/download/v3.5.5/Orbit-Music-v3.5.5.apk)
 
-* **Direct GitHub CDN:** [Orbit-Music-v3.5.4.apk](https://github.com/fahitakrim/my-artifacts/releases/download/v3.5.4/Orbit-Music-v3.5.4.apk)
-* **Release Page:** [v3.5.4 Stable Release Notes](https://github.com/fahitakrim/my-artifacts/releases/tag/v3.5.4)
+* **Direct GitHub CDN:** [Orbit-Music-v3.5.5.apk](https://github.com/fahitakrim/my-artifacts/releases/download/v3.5.5/Orbit-Music-v3.5.5.apk)
+* **Release Page:** [v3.5.5 Stable Release Notes](https://github.com/fahitakrim/my-artifacts/releases/tag/v3.5.5)
 
 ---
 

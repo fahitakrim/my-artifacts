@@ -1,0 +1,15 @@
+{
+  "latestVersion": "3.5.5",
+  "versionCode": 13,
+  "releaseDate": "October 2026",
+  "downloadUrl": "https://github.com/fahitakrim/my-artifacts/releases/download/v3.5.5/Orbit-Music-v3.5.5.apk",
+  "releasePageUrl": "https://github.com/fahitakrim/my-artifacts/releases/tag/v3.5.5",
+  "changelog": [
+    "Collapsible Settings dropdown accordions with Nothing OS animations",
+    "Independent multi-app update system without conflicts",
+    "Dual-mode remote announcement control (manual vs push)",
+    "Android 11 compatibility and MediaStore scanning fixes",
+    "Audio tag/metadata editor and scoped storage deletion"
+  ],
+  "isCritical": false
+}
