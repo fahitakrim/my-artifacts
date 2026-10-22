@@ -1,15 +1,15 @@
 {
-  "id": "orbit-music-v355-welcome",
-  "title": "ORBIT MUSIC 3.5",
+  "id": "orbitwall-release-announcement",
+  "title": "ORBITWALL IS HERE",
   "date": "October 2026",
-  "badge": "UPDATE",
-  "summary": "Welcome to Orbit Music 3.5! Now with collapsible settings, Android 11 compatibility, and smoother tactile controls.",
+  "badge": "NEW APP",
+  "summary": "Orbitwall is now available! A minimal 4K wallpaper app crafted with Nothing OS lock screen aesthetics.",
   "highlights": [
-    "Organized Settings with clean collapsible categories",
-    "Full Android 11 permission and audio scanning fix",
-    "Enhanced Nothing OS haptics & faster performance"
+    "Handcrafted 4K & AMOLED wallpapers",
+    "Nothing OS lock screen clock styles",
+    "Ultra-lightweight footprint (~2.8 MB)"
   ],
-  "actionLabel": "Got It",
+  "actionLabel": "Get Orbitwall",
   "actionUrl": "https://github.com/fahitakrim/my-artifacts",
   "secondaryActionLabel": "Dismiss",
   "minVersionCode": 1,
