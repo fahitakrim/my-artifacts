@@ -1,16 +1,16 @@
 {
   "latestVersion": "1.0.0",
-  "versionCode": 10936,
+  "versionCode": 10937,
   "releaseDate": "October 2026",
-  "downloadUrl": "https://files.catbox.moe/xucyv6.apk",
-  "mirrorDownloadUrl": "https://tmpfiles.org/dl/w9ALVK4lDqTV/orbit-board-v1.0.0-arm64.apk",
+  "downloadUrl": "https://files.catbox.moe/spdl82.apk",
+  "mirrorDownloadUrl": "https://files.catbox.moe/spdl82.apk",
   "releasePageUrl": "https://github.com/fahitakrim/Orbit-board",
-  "title": "Orbit Board v1.0.0 (Orbit Theme & Long-Press Fix)",
+  "title": "Orbit Board v1.0.0 (Matte Orbit Theme & Per-Key Popup)",
   "changelog": [
-    "Added Orbit Theme: Signature retro Bauhaus Nothing theme with Pitch AMOLED Black background, authentic Dotted Ndot font, and colorful per-key color blocking (Yellow, Blue, Red, White, Charcoal Dark)",
-    "Fixed Long-Press Numbers & Symbols: Fixed digit swallowing in Bengali Avro parser and ensured reliable commitText input across all apps",
-    "Direct Bengali Composition: Zero English Flash during typing with instant Bengali output and multi-candidate word suggestion strip",
-    "Hardware KeyEvent elimination: All long-press symbols and digits now use direct InputConnection commitText for 100% compatibility across all Android apps"
+    "Orbit Theme Matte Upgrade: Soft, glare-free Bauhaus matte color tones (Warm Ochre, Carmine Red, Cobalt Slate, Chalk White, Graphite Dark) on pitch AMOLED black",
+    "Per-Key Color-Matching Popups: Key press preview bubbles now dynamically match each key's specific color and contrast text/icons",
+    "Long-Press Number & Symbol Fix: Seamless input of numbers and symbols across all layouts without swallowing or dropping characters",
+    "Zero English Flash & Bengali Multi-candidate engine: Instant phonetic composition with multi-suggestion strip"
   ],
   "isCritical": false
 }
