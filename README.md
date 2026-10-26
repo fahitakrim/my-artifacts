@@ -11,7 +11,7 @@ This repository serves as the official release and distribution hub. The source 
 | Application | Description | Download | Release Notes |
 | :--- | :--- | :--- | :--- |
 | 🪐 **Orbitwall** | 4K wallpaper app with live Nothing OS lock screen clock faces | [⬇️ Download](https://github.com/fahitakrim/my-artifacts/releases/download/orbitwall-latest/Orbitwall.apk) | [v1.1.5 Notes](https://github.com/fahitakrim/Orbitwall/releases/tag/v1.1.5) |
-| 🎵 **Orbit Music** | Minimalist offline music player with Nothing OS & Bauhaus design | [⬇️ Download](https://github.com/fahitakrim/my-artifacts/releases/download/v3.5.5/Orbit-Music-v3.5.5.apk) | [v3.5.5 Notes](https://github.com/fahitakrim/my-artifacts/releases/tag/v3.5.5) |
+| 🎵 **Orbit Music** | Minimalist offline music player with Nothing OS & Bauhaus design | [⬇️ Download](https://github.com/fahitakrim/my-artifacts/releases/download/v3.6.0/Orbit-Music-v3.6.0.apk) | [v3.6.0 Notes](https://github.com/fahitakrim/my-artifacts/releases/tag/v3.6.0) |
 
 > 🔗 **Permanent Universal Download:** [Orbitwall Latest APK](https://github.com/fahitakrim/my-artifacts/releases/download/orbitwall-latest/Orbitwall.apk) (this link always serves the newest release!).
 
@@ -22,29 +22,24 @@ This repository serves as the official release and distribution hub. The source 
 ### 1. Orbit Music 🎵 — Stable Release
 > *A minimalist, privacy-first offline music player engineered with a Nothing OS & Bauhaus-inspired visual identity.*
 
-[![Version](https://img.shields.io/badge/Version-v3.5.5%20Stable-E5252A?style=flat-square)](https://github.com/fahitakrim/my-artifacts/releases/tag/v3.5.5)
-[![Android](https://img.shields.io/badge/Android-8.0%2B-3DDC84?style=flat-square&logo=android&logoColor=white)](https://github.com/fahitakrim/my-artifacts/releases/tag/v3.5.5)
-[![Status](https://img.shields.io/badge/Type-Offline%20Only-blue?style=flat-square)](https://github.com/fahitakrim/my-artifacts/releases/tag/v3.5.5)
-[![Size](https://img.shields.io/badge/Size-10.6%20MB-purple?style=flat-square)](https://github.com/fahitakrim/my-artifacts/releases/tag/v3.5.5)
+[![Version](https://img.shields.io/badge/Version-v3.6.0%20Stable-E5252A?style=flat-square)](https://github.com/fahitakrim/my-artifacts/releases/tag/v3.6.0)
+[![Android](https://img.shields.io/badge/Android-8.0%2B-3DDC84?style=flat-square&logo=android&logoColor=white)](https://github.com/fahitakrim/my-artifacts/releases/tag/v3.6.0)
+[![Status](https://img.shields.io/badge/Type-Offline%20Only-blue?style=flat-square)](https://github.com/fahitakrim/my-artifacts/releases/tag/v3.6.0)
+[![Size](https://img.shields.io/badge/Size-10.6%20MB-purple?style=flat-square)](https://github.com/fahitakrim/my-artifacts/releases/tag/v3.6.0)
 
-#### ✨ Key Features (v3.5.5 Stable)
-- 📂 **Collapsible Settings:** Clean accordion dropdowns for easy navigation.
-- 🤖 **Android 11 Fix:** Resolved permission issues and audio scanning on Android 11.
-- ⚡ **Smoother Controls:** Refined playback controls and tactile haptic feedback.
-- 🛠️ **Stability:** General bug fixes and performance improvements.
+#### ✨ Key Features (v3.6.0 Stable)
+- 📌 **Pinned All Tracks Header:** Quick actions and custom sorting stay pinned to the top as you scroll.
+- ⚡ **Playback Speed Control:** Fine-tune playback speed from 0.5x to 2.0x with dedicated presets.
+- 🔁 **A-B Looper:** Mark A and B points to seamlessly loop any section of a track.
+- ⏱️ **Custom Sleep Timer:** Precise minute-level slider with instant remaining-time badge.
+- 🎵 **Lossless Audio & Offline Lyrics:** Enhanced support for FLAC, ALAC, WAV, and synchronized LRC files.
+- 🛠️ **Stability & Polish:** Smoother animations and performance enhancements.
 
-- 🏷️ **Edit Song Details:** Easily edit track title, artist, and album details directly in the app.
-- 🎮 **Improved Notification Controls:** Added quick Favorite and Close buttons in the notification panel.
-- 🗑️ **Delete Songs:** Option to remove songs directly from device storage.
-- 🔴 **Status Bar Indicator:** Subtle indicator dot when music is running in the background.
-- 🪟 **Updated Bottom Sheets:** Sleek, consistent edge-to-edge sheets and fluid touch interaction.
-- ⚡ **In-App Automatic Update Checker:** Seamless background checks with one-click direct update.
+#### 📲 Download Orbit Music (v3.6.0 Stable)
+[![Download Orbit Music APK](https://img.shields.io/badge/Download-Orbit%20Music%20v3.6.0%20Stable%20(APK)-E5252A?style=for-the-badge&logo=android&logoColor=white)](https://github.com/fahitakrim/my-artifacts/releases/download/v3.6.0/Orbit-Music-v3.6.0.apk)
 
-#### 📲 Download Orbit Music (v3.5.5 Stable)
-[![Download Orbit Music APK](https://img.shields.io/badge/Download-Orbit%20Music%20v3.5.5%20Stable%20(APK)-E5252A?style=for-the-badge&logo=android&logoColor=white)](https://github.com/fahitakrim/my-artifacts/releases/download/v3.5.5/Orbit-Music-v3.5.5.apk)
-
-* **Direct GitHub CDN:** [Orbit-Music-v3.5.5.apk](https://github.com/fahitakrim/my-artifacts/releases/download/v3.5.5/Orbit-Music-v3.5.5.apk)
-* **Release Page:** [v3.5.5 Stable Release Notes](https://github.com/fahitakrim/my-artifacts/releases/tag/v3.5.5)
+* **Direct GitHub CDN:** [Orbit-Music-v3.6.0.apk](https://github.com/fahitakrim/my-artifacts/releases/download/v3.6.0/Orbit-Music-v3.6.0.apk)
+* **Release Page:** [v3.6.0 Stable Release Notes](https://github.com/fahitakrim/my-artifacts/releases/tag/v3.6.0)
 
 ---
 
@@ -90,4 +85,3 @@ Stay tuned for new applications, tools, and experiments! Each new release will b
 
 ## 🔒 Distribution Note
 All binaries provided in this repository are compiled directly from source and verified. Redistribution or reverse engineering without permission is prohibited.
-
