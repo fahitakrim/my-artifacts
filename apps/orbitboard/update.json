@@ -1,16 +1,17 @@
 {
   "latestVersion": "1.0.0",
-  "versionCode": 10933,
+  "versionCode": 10934,
   "releaseDate": "October 2026",
-  "downloadUrl": "https://files.catbox.moe/vic6h2.apk",
+  "downloadUrl": "https://files.catbox.moe/yk84xe.apk",
+  "mirrorDownloadUrl": "https://tmpfiles.org/dl/wCAcVuh6ZtRE/orbit-board-v1.0.0-arm64.apk",
   "releasePageUrl": "https://github.com/fahitakrim/Orbit-board",
-  "title": "Orbit Board v1.0.0 (Avro Phonetic & Stability Update)",
+  "title": "Orbit Board v1.0.0 (Avro Long-Press & Instant Bangla Fix)",
   "changelog": [
-    "Smart Avro Phonetic Typing: Instant Bengali composition (Ridmik-style)",
-    "Fixed English flash: Bengali renders immediately without raw Latin letters appearing",
-    "Fixed backspace glitch: Deleting space removes characters cleanly without reverting to English",
-    "Fixed layout isolation: English keyboard operates completely separated from Avro",
-    "Multi-candidate suggestion strip with Bengali alternate spellings and raw English fallback"
+    "Fixed Avro Long-Press Crash: Added comprehensive null-guards and exception shields across PointerTracker and MainKeyboardView",
+    "Instant Direct Bangla: Zero English flash during typing — eliminates raw Latin characters from suggestion callbacks",
+    "Ridmik Keyboard Typing Engine: Pure Bengali composition directly sent to InputConnection",
+    "Crash-Proof Clipboard & Haptic Feedback: Safe copy/cut/paste and bounded vibration durations",
+    "Safe RidmikParser bounds checking to prevent StringIndexOutOfBoundsException"
   ],
   "isCritical": false
 }
