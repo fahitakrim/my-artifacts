@@ -1,0 +1,20 @@
+{
+  "id": "orbitboard-v1-welcome",
+  "title": "WELCOME TO ORBIT BOARD",
+  "date": "October 2026",
+  "badge": "RELEASE",
+  "summary": "Welcome to Orbit Board v1.0.0! A private, minimal keyboard crafted with Nothing OS design language and full Bengali layout support.",
+  "highlights": [
+    "Avro Phonetic, Jatiyo & Probhat layout support",
+    "Direct toggles from Home Settings & one-tap globe key switch",
+    "AMOLED true pitch black with Nothing Red accents",
+    "Zero analytics, complete local privacy on-device"
+  ],
+  "actionLabel": "Explore GitHub",
+  "actionUrl": "https://github.com/fahitakrim/Orbit-board",
+  "secondaryActionLabel": "Close",
+  "minVersionCode": 1,
+  "maxVersionCode": 2147483647,
+  "isCritical": false,
+  "autoShow": false
+}

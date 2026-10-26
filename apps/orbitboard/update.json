@@ -1,0 +1,16 @@
+{
+  "latestVersion": "1.0.0",
+  "versionCode": 10931,
+  "releaseDate": "October 2026",
+  "downloadUrl": "https://files.catbox.moe/tx82or.apk",
+  "releasePageUrl": "https://github.com/fahitakrim/Orbit-board",
+  "title": "Orbit Board v1.0.0",
+  "changelog": [
+    "Full Bengali typing support: Avro (Phonetic), Jatiyo (National), and Probhat",
+    "Nothing OS Bauhaus aesthetic: Pitch black AMOLED, Doto typography, NeuCard tactile feedback",
+    "One-tap language switcher globe key & spacebar swipe gestures",
+    "Dedicated Bengali Layouts toggle card in Settings",
+    "In-app Announcements & OTA update manager"
+  ],
+  "isCritical": false
+}
