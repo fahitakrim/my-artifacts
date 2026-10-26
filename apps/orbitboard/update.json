@@ -1,16 +1,16 @@
 {
   "latestVersion": "1.0.0",
-  "versionCode": 10932,
+  "versionCode": 10933,
   "releaseDate": "October 2026",
-  "downloadUrl": "https://files.catbox.moe/qlgwq5.apk",
+  "downloadUrl": "https://files.catbox.moe/vic6h2.apk",
   "releasePageUrl": "https://github.com/fahitakrim/Orbit-board",
-  "title": "Orbit Board v1.0.0 (Typography Update)",
+  "title": "Orbit Board v1.0.0 (Avro Phonetic & Stability Update)",
   "changelog": [
-    "Refined Bengali typography: Clean regular weight font rendering",
-    "Eliminated heavy/clunky bolding on Bengali keys (Avro, Jatiyo, Probhat)",
-    "Sharper and more legible Indic ligatures & vowel diacritics",
-    "Sleek Nothing OS AMOLED aesthetic with matching hint labels",
-    "One-tap language switcher globe key & spacebar swipe gestures"
+    "Smart Avro Phonetic Typing: Instant Bengali composition (Ridmik-style)",
+    "Fixed English flash: Bengali renders immediately without raw Latin letters appearing",
+    "Fixed backspace glitch: Deleting space removes characters cleanly without reverting to English",
+    "Fixed layout isolation: English keyboard operates completely separated from Avro",
+    "Multi-candidate suggestion strip with Bengali alternate spellings and raw English fallback"
   ],
   "isCritical": false
 }
