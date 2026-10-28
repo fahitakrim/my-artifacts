@@ -2,9 +2,9 @@
   "latestVersion": "1.0.8",
   "versionCode": 10939,
   "releaseDate": "October 2026",
-  "downloadUrl": "https://files.catbox.moe/cmzvnb.apk",
-  "mirrorDownloadUrl": "https://github.com/fahitakrim/Orbit-Board/releases",
-  "releasePageUrl": "https://github.com/fahitakrim/Orbit-Board",
+  "downloadUrl": "https://github.com/fahitakrim/my-artifacts/releases/download/orbitboard-v1.0.8/Orbit-Board-v1.0.8.apk",
+  "mirrorDownloadUrl": "https://github.com/fahitakrim/my-artifacts/releases/download/orbitboard-latest/Orbit-Board.apk",
+  "releasePageUrl": "https://github.com/fahitakrim/my-artifacts/releases/tag/orbitboard-v1.0.8",
   "title": "Orbit Board v1.0.8 (Stable)",
   "changelog": [
     "Two-Row Extended Action Bar: Word suggestions stay visible while all actions (Clipboard, Voice, Settings) expand in a dedicated second row",
