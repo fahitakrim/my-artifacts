@@ -1,16 +1,19 @@
 {
-  "latestVersion": "1.0.7",
-  "versionCode": 10938,
+  "latestVersion": "1.0.8",
+  "versionCode": 10939,
   "releaseDate": "October 2026",
-  "downloadUrl": "https://github.com/fahitakrim/Orbit-Board/releases",
+  "downloadUrl": "https://files.catbox.moe/cmzvnb.apk",
   "mirrorDownloadUrl": "https://github.com/fahitakrim/Orbit-Board/releases",
   "releasePageUrl": "https://github.com/fahitakrim/Orbit-Board",
-  "title": "Orbit Board v1.0.7",
+  "title": "Orbit Board v1.0.8 (Stable)",
   "changelog": [
-    "Recent Emojis Expanded: Now displays 3-4 full rows of recent emojis pre-populated with popular emojis",
-    "Gboard-style Alphabetical Bangla Layout: Replaced Akkhor with the intuitive 5-row alphabetical Bangla layout",
-    "Avro Phonetic Improvements: Copy/Cut/Paste shortcuts and default lowercase starting state",
-    "Subtype Cleanups: Fixed duplicate English keyboard entries"
+    "Two-Row Extended Action Bar: Word suggestions stay visible while all actions (Clipboard, Voice, Settings) expand in a dedicated second row",
+    "Probhat Layout More Keys Popup: Long-pressing 'য়' or 'য' opens the [ ্য | য | র্য ] popup panel for quick selection",
+    "Spacebar Name Pin Toggle: Choose to keep active keyboard name permanently pinned or allow it to smoothly fade out after switching",
+    "Independent Row Controls: Separate quick toggles for Suggestion Row and Number Row directly on Home settings",
+    "5-Row Alphabetical Bangla Layout Restored: Intuitive layout easily selectable alongside Avro, Jatiyo & Probhat",
+    "Language Selection Trap Fixed: Toggle or delete layouts freely without minimum keyboard traps",
+    "Performance & Size Optimization: Cleaned unneeded dictionaries and bloat for a fast, responsive typing experience"
   ],
   "isCritical": false
 }

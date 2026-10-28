@@ -10,16 +10,42 @@ This repository serves as the official release and distribution hub. The source 
 
 | Application | Description | Download | Release Notes |
 | :--- | :--- | :--- | :--- |
+| ⌨️ **Orbit Board** | Private, minimal keyboard with Nothing OS design & Bengali layouts | [⬇️ Download](https://files.catbox.moe/cmzvnb.apk) | [v1.0.8 Notes](https://github.com/fahitakrim/Orbit-Board) |
 | 🪐 **Orbitwall** | 4K wallpaper app with live Nothing OS lock screen clock faces | [⬇️ Download](https://github.com/fahitakrim/my-artifacts/releases/download/orbitwall-latest/Orbitwall.apk) | [v1.1.5 Notes](https://github.com/fahitakrim/Orbitwall/releases/tag/v1.1.5) |
 | 🎵 **Orbit Music** | Minimalist offline music player with Nothing OS & Bauhaus design | [⬇️ Download](https://github.com/fahitakrim/my-artifacts/releases/download/v3.6.0/Orbit-Music-v3.6.0.apk) | [v3.6.0 Notes](https://github.com/fahitakrim/my-artifacts/releases/tag/v3.6.0) |
 
-> 🔗 **Permanent Universal Download:** [Orbitwall Latest APK](https://github.com/fahitakrim/my-artifacts/releases/download/orbitwall-latest/Orbitwall.apk) (this link always serves the newest release!).
+> 🔗 **Permanent Direct Download:** [Orbit Board v1.0.8 APK](https://files.catbox.moe/cmzvnb.apk)
 
 ---
 
 ## 🌟 Featured Artifacts
 
-### 1. Orbit Music 🎵 — Stable Release
+### 1. Orbit Board ⌨️ — Stable Release
+> *A private, minimal Android keyboard crafted specifically for Nothing OS with complete Bengali layout support (Avro, Jatiyo, Probhat, Bangla).*
+
+[![Version](https://img.shields.io/badge/Version-v1.0.8%20Stable-E51C23?style=flat-square)](https://files.catbox.moe/cmzvnb.apk)
+[![Android](https://img.shields.io/badge/Android-8.0%2B-3DDC84?style=flat-square&logo=android&logoColor=white)](https://files.catbox.moe/cmzvnb.apk)
+[![Privacy](https://img.shields.io/badge/Privacy-100%25%20On--Device-blue?style=flat-square)](https://files.catbox.moe/cmzvnb.apk)
+[![Theme](https://img.shields.io/badge/Theme-Nothing%20OS%20AMOLED-black?style=flat-square)](https://files.catbox.moe/cmzvnb.apk)
+
+#### ✨ Key Features (v1.0.8 Stable)
+- 📌 **Two-Row Extended Action Bar:** Word suggestions remain visible at all times while full action tools (Clipboard, Voice, Settings, Editing) open cleanly in a dedicated second row.
+- 🔤 **Probhat More Keys Popup:** Long-pressing `য়` or `য` brings up the `[ ্য | য | র্য ]` popup panel for fast selection.
+- 🔄 **Spacebar Swipe Language Switch:** Smoothly switch between active keyboards with horizontal spacebar swipe.
+- 📍 **Spacebar Name Pin Toggle:** Choose whether to keep the active keyboard name permanently pinned on the spacebar or allow it to smoothly fade out after switching.
+- 🎛️ **Independent Row Controls:** Dedicated toggles on the Home screen to control Suggestion Row and Number Row independently.
+- 🇧🇩 **Full Bengali Layout Suite:** Avro Phonetic, Jatiyo, Probhat, and alphabetical 5-row Bangla layout.
+- 🔒 **Zero Analytics & Absolute Privacy:** 100% offline, no internet permission for keystrokes, completely secure.
+
+#### 📲 Download Orbit Board (v1.0.8 Stable)
+[![Download Orbit Board APK](https://img.shields.io/badge/Download-Orbit%20Board%20v1.0.8%20(APK)-E51C23?style=for-the-badge&logo=android&logoColor=white)](https://files.catbox.moe/cmzvnb.apk)
+
+* **Direct Fast CDN:** [orbit-board-v1.0.8-arm64.apk](https://files.catbox.moe/cmzvnb.apk)
+* **Project Repository:** [Orbit Board on GitHub](https://github.com/fahitakrim/Orbit-Board)
+
+---
+
+### 2. Orbit Music 🎵 — Stable Release
 > *A minimalist, privacy-first offline music player engineered with a Nothing OS & Bauhaus-inspired visual identity.*
 
 [![Version](https://img.shields.io/badge/Version-v3.6.0%20Stable-E5252A?style=flat-square)](https://github.com/fahitakrim/my-artifacts/releases/tag/v3.6.0)
@@ -43,7 +69,7 @@ This repository serves as the official release and distribution hub. The source 
 
 ---
 
-### 2. Orbitwall 🪐 — Latest Release
+### 3. Orbitwall 🪐 — Latest Release
 > *A minimalist, high-performance 4K wallpaper application crafted with an authentic Nothing OS visual identity, Dot-Matrix typography, and live lock screen clock preview faces.*
 
 [![Version](https://img.shields.io/badge/Version-v1.1.5%20Latest-E51C23?style=flat-square)](https://github.com/fahitakrim/my-artifacts/releases/tag/v1.1.5)
@@ -66,11 +92,6 @@ This repository serves as the official release and distribution hub. The source 
 * **Direct Universal Download:** [Orbitwall.apk](https://github.com/fahitakrim/my-artifacts/releases/download/orbitwall-latest/Orbitwall.apk)
 * **Direct v1.1.5 Download:** [Orbitwall-v1.1.5.apk](https://github.com/fahitakrim/my-artifacts/releases/download/orbitwall-v1.1.5/Orbitwall-v1.1.5.apk)
 * **Release Page:** [v1.1.3 Release Notes](https://github.com/fahitakrim/my-artifacts/releases/tag/v1.1.5)
-
----
-
-### 3. More Artifacts Coming Soon... 🚀
-Stay tuned for new applications, tools, and experiments! Each new release will be added to this showcase.
 
 ---
 
