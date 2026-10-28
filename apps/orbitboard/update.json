@@ -1,16 +1,16 @@
 {
-  "latestVersion": "1.0.0",
-  "versionCode": 10937,
+  "latestVersion": "1.0.7",
+  "versionCode": 10938,
   "releaseDate": "October 2026",
-  "downloadUrl": "https://files.catbox.moe/spdl82.apk",
-  "mirrorDownloadUrl": "https://files.catbox.moe/spdl82.apk",
-  "releasePageUrl": "https://github.com/fahitakrim/Orbit-board",
-  "title": "Orbit Board v1.0.0 (Matte Orbit Theme & Per-Key Popup)",
+  "downloadUrl": "https://github.com/fahitakrim/Orbit-Board/releases",
+  "mirrorDownloadUrl": "https://github.com/fahitakrim/Orbit-Board/releases",
+  "releasePageUrl": "https://github.com/fahitakrim/Orbit-Board",
+  "title": "Orbit Board v1.0.7",
   "changelog": [
-    "Orbit Theme Matte Upgrade: Soft, glare-free Bauhaus matte color tones (Warm Ochre, Carmine Red, Cobalt Slate, Chalk White, Graphite Dark) on pitch AMOLED black",
-    "Per-Key Color-Matching Popups: Key press preview bubbles now dynamically match each key's specific color and contrast text/icons",
-    "Long-Press Number & Symbol Fix: Seamless input of numbers and symbols across all layouts without swallowing or dropping characters",
-    "Zero English Flash & Bengali Multi-candidate engine: Instant phonetic composition with multi-suggestion strip"
+    "Recent Emojis Expanded: Now displays 3-4 full rows of recent emojis pre-populated with popular emojis",
+    "Gboard-style Alphabetical Bangla Layout: Replaced Akkhor with the intuitive 5-row alphabetical Bangla layout",
+    "Avro Phonetic Improvements: Copy/Cut/Paste shortcuts and default lowercase starting state",
+    "Subtype Cleanups: Fixed duplicate English keyboard entries"
   ],
   "isCritical": false
 }
