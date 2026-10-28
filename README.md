@@ -10,11 +10,11 @@ This repository serves as the official release and distribution hub. The source 
 
 | Application | Description | Download | Release Notes |
 | :--- | :--- | :--- | :--- |
-| ⌨️ **Orbit Board** | Private, minimal keyboard with Nothing OS design & Bengali layouts | [⬇️ Download](https://files.catbox.moe/cmzvnb.apk) | [v1.0.8 Notes](https://github.com/fahitakrim/Orbit-Board) |
+| ⌨️ **Orbit Board** | Private, minimal keyboard with Nothing OS design & Bengali layouts | [⬇️ Download](https://github.com/fahitakrim/my-artifacts/releases/tag/orbitboard-v1.0.8) | [v1.0.8 Notes](https://github.com/fahitakrim/Orbit-Board) |
 | 🪐 **Orbitwall** | 4K wallpaper app with live Nothing OS lock screen clock faces | [⬇️ Download](https://github.com/fahitakrim/my-artifacts/releases/download/orbitwall-latest/Orbitwall.apk) | [v1.1.5 Notes](https://github.com/fahitakrim/Orbitwall/releases/tag/v1.1.5) |
 | 🎵 **Orbit Music** | Minimalist offline music player with Nothing OS & Bauhaus design | [⬇️ Download](https://github.com/fahitakrim/my-artifacts/releases/download/v3.6.0/Orbit-Music-v3.6.0.apk) | [v3.6.0 Notes](https://github.com/fahitakrim/my-artifacts/releases/tag/v3.6.0) |
 
-> 🔗 **Permanent Direct Download:** [Orbit Board v1.0.8 APK](https://files.catbox.moe/cmzvnb.apk)
+> 🔗 **Permanent Download Releases:** [Orbit Board Releases on GitHub](https://github.com/fahitakrim/my-artifacts/releases/tag/orbitboard-v1.0.8)
 
 ---
 
@@ -23,10 +23,10 @@ This repository serves as the official release and distribution hub. The source 
 ### 1. Orbit Board ⌨️ — Stable Release
 > *A private, minimal Android keyboard crafted specifically for Nothing OS with complete Bengali layout support (Avro, Jatiyo, Probhat, Bangla).*
 
-[![Version](https://img.shields.io/badge/Version-v1.0.8%20Stable-E51C23?style=flat-square)](https://files.catbox.moe/cmzvnb.apk)
-[![Android](https://img.shields.io/badge/Android-8.0%2B-3DDC84?style=flat-square&logo=android&logoColor=white)](https://files.catbox.moe/cmzvnb.apk)
-[![Privacy](https://img.shields.io/badge/Privacy-100%25%20On--Device-blue?style=flat-square)](https://files.catbox.moe/cmzvnb.apk)
-[![Theme](https://img.shields.io/badge/Theme-Nothing%20OS%20AMOLED-black?style=flat-square)](https://files.catbox.moe/cmzvnb.apk)
+[![Version](https://img.shields.io/badge/Version-v1.0.8%20Stable-E51C23?style=flat-square)](https://github.com/fahitakrim/my-artifacts/releases/tag/orbitboard-v1.0.8)
+[![Android](https://img.shields.io/badge/Android-8.0%2B-3DDC84?style=flat-square&logo=android&logoColor=white)](https://github.com/fahitakrim/my-artifacts/releases/tag/orbitboard-v1.0.8)
+[![Privacy](https://img.shields.io/badge/Privacy-100%25%20On--Device-blue?style=flat-square)](https://github.com/fahitakrim/my-artifacts/releases/tag/orbitboard-v1.0.8)
+[![Theme](https://img.shields.io/badge/Theme-Nothing%20OS%20AMOLED-black?style=flat-square)](https://github.com/fahitakrim/my-artifacts/releases/tag/orbitboard-v1.0.8)
 
 #### ✨ Key Features (v1.0.8 Stable)
 - 📌 **Two-Row Extended Action Bar:** Word suggestions remain visible at all times while full action tools (Clipboard, Voice, Settings, Editing) open cleanly in a dedicated second row.
@@ -38,9 +38,10 @@ This repository serves as the official release and distribution hub. The source 
 - 🔒 **Zero Analytics & Absolute Privacy:** 100% offline, no internet permission for keystrokes, completely secure.
 
 #### 📲 Download Orbit Board (v1.0.8 Stable)
-[![Download Orbit Board APK](https://img.shields.io/badge/Download-Orbit%20Board%20v1.0.8%20(APK)-E51C23?style=for-the-badge&logo=android&logoColor=white)](https://files.catbox.moe/cmzvnb.apk)
+[![Download Orbit Board APK](https://img.shields.io/badge/Download-Orbit%20Board%20v1.0.8%20(APK)-E51C23?style=for-the-badge&logo=android&logoColor=white)](https://github.com/fahitakrim/my-artifacts/releases/tag/orbitboard-v1.0.8)
 
-* **Direct Fast CDN:** [orbit-board-v1.0.8-arm64.apk](https://files.catbox.moe/cmzvnb.apk)
+* **GitHub Release Page:** [Orbit Board v1.0.8 Release (Universal & arm64)](https://github.com/fahitakrim/my-artifacts/releases/tag/orbitboard-v1.0.8)
+* **Universal Direct APK:** [Orbit-Board-v1.0.8.apk](https://github.com/fahitakrim/my-artifacts/releases/download/orbitboard-v1.0.8/Orbit-Board-v1.0.8.apk)
 * **Project Repository:** [Orbit Board on GitHub](https://github.com/fahitakrim/Orbit-Board)
 
 ---

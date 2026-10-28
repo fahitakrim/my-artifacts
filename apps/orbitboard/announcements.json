@@ -11,7 +11,7 @@
     "Independent Row Controls: Separate toggles for Suggestion Row and Number Row"
   ],
   "actionLabel": "Download Update",
-  "actionUrl": "https://files.catbox.moe/cmzvnb.apk",
+  "actionUrl": "https://github.com/fahitakrim/my-artifacts/releases/tag/orbitboard-v1.0.8",
   "secondaryActionLabel": "Close",
   "minVersionCode": 1,
   "maxVersionCode": 2147483647,
