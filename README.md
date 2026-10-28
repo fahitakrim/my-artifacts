@@ -10,7 +10,7 @@ This repository serves as the official release and distribution hub. The source 
 
 | Application | Description | Download | Release Notes |
 | :--- | :--- | :--- | :--- |
-| ⌨️ **Orbit Board** | Private, minimal keyboard with Nothing OS design & Bengali layouts | [⬇️ Download](https://github.com/fahitakrim/my-artifacts/releases/tag/orbitboard-v1.0.8) | [v1.0.8 Notes](https://github.com/fahitakrim/Orbit-Board) |
+| ⌨️ **Orbit Board** | Private, minimal keyboard with Nothing OS design & Bengali layouts | [⬇️ Download](https://github.com/fahitakrim/my-artifacts/releases/tag/orbitboard-v1.0.8) | [v1.0.8 Notes](https://github.com/fahitakrim/Orbit-Board/releases/tag/v1.0.8) |
 | 🪐 **Orbitwall** | 4K wallpaper app with live Nothing OS lock screen clock faces | [⬇️ Download](https://github.com/fahitakrim/my-artifacts/releases/download/orbitwall-latest/Orbitwall.apk) | [v1.1.5 Notes](https://github.com/fahitakrim/Orbitwall/releases/tag/v1.1.5) |
 | 🎵 **Orbit Music** | Minimalist offline music player with Nothing OS & Bauhaus design | [⬇️ Download](https://github.com/fahitakrim/my-artifacts/releases/download/v3.6.0/Orbit-Music-v3.6.0.apk) | [v3.6.0 Notes](https://github.com/fahitakrim/my-artifacts/releases/tag/v3.6.0) |
 
@@ -42,6 +42,7 @@ This repository serves as the official release and distribution hub. The source 
 
 * **GitHub Release Page:** [Orbit Board v1.0.8 Release (Universal & arm64)](https://github.com/fahitakrim/my-artifacts/releases/tag/orbitboard-v1.0.8)
 * **Universal Direct APK:** [Orbit-Board-v1.0.8.apk](https://github.com/fahitakrim/my-artifacts/releases/download/orbitboard-v1.0.8/Orbit-Board-v1.0.8.apk)
+* **Release Notes:** [Orbit Board v1.0.8 Release Notes](https://github.com/fahitakrim/Orbit-Board/releases/tag/v1.0.8)
 * **Project Repository:** [Orbit Board on GitHub](https://github.com/fahitakrim/Orbit-Board)
 
 ---
