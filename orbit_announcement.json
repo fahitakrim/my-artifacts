@@ -1,20 +1,24 @@
 {
-  "id": "orbitwall-release-announcement",
-  "title": "ORBITWALL IS HERE",
-  "date": "October 2026",
-  "badge": "NEW APP",
-  "summary": "Orbitwall is now available! A minimal 4K wallpaper app crafted with Nothing OS lock screen aesthetics.",
+  "id": "orbitboard-v1-2-3-major-redesign-update",
+  "title": "ORBIT BOARD v1.2.3: MAJOR UPDATE & REDESIGN",
+  "date": "November 2026",
+  "badge": "MAJOR UPDATE",
+  "summary": "Orbit Board v1.2.3 brings a complete Nothing OS UI redesign, integrated Voice Typing, instant Bengali Number Pad toggle, real-time keyboard resizer, and adaptive theme styling!",
   "highlights": [
-    "Handcrafted 4K & AMOLED wallpapers",
-    "Nothing OS lock screen clock styles",
-    "Ultra-lightweight footprint (~2.8 MB)"
+    "🎙️ Voice Typing Added: Fast, private on-device voice input directly on the action bar with mute click sound toggle",
+    "🎨 Complete UI Redesign: Authentic Nothing OS & Bauhaus aesthetic, floating bottom navigation dock, proportional preview cards, and dot-matrix typography",
+    "🔢 Instant Bangla Number Pad: One-tap toggle key (১২৩ / 123) on the dialpad to switch between English & Bengali digits",
+    "📐 Real-Time Keyboard Resizer: Live visual feedback and interactive preview while adjusting keyboard height and margins",
+    "🌈 Theme-Adaptive Spacebar Accent: Spacebar color dynamically matches the active theme's accent color (Enter & Emoji keys)",
+    "🇧🇩 Full Bengali Typing Suite: Avro Phonetic, Probhat with [ ্য | য | র্য ] popup panel, Jatiyo Modern, Jatiyo Classic, and Alphabetical Bangla",
+    "🔔 Push Update Notifications: Automatic background update checking with Android status bar notifications",
+    "⚡ Major Optimization: Faster startup, lower memory footprint, and rock-solid stability"
   ],
-  "actionLabel": "Get Orbitwall",
-  "actionUrl": "https://github.com/fahitakrim/my-artifacts",
-  "secondaryActionLabel": "Dismiss",
+  "actionLabel": "Download v1.2.3 Update (APK)",
+  "actionUrl": "https://github.com/fahitakrim/Orbit-Board/releases/download/v1.2.3/Orbit-Board-v1.2.3-arm64.apk",
+  "secondaryActionLabel": "Later",
   "minVersionCode": 1,
   "maxVersionCode": 2147483647,
   "isCritical": false,
-  "autoShow": false,
-  "mode": "manual"
+  "autoShow": true
 }

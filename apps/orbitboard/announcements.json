@@ -1,47 +1,24 @@
-[
-  {
-    "id": "orbitboard-v1-2-3-major-redesign-update",
-    "title": "ORBIT BOARD v1.2.3: MAJOR UPDATE & REDESIGN",
-    "date": "November 2026",
-    "badge": "MAJOR UPDATE",
-    "summary": "Orbit Board v1.2.3 brings a complete Nothing OS UI redesign, integrated Voice Typing, instant Bengali Number Pad toggle, real-time keyboard resizer, and adaptive theme styling!",
-    "highlights": [
-      "🎙️ Voice Typing Added: Fast, private on-device voice input directly on the action bar with mute click sound toggle",
-      "🎨 Complete UI Redesign: Authentic Nothing OS & Bauhaus aesthetic, floating bottom navigation dock, proportional preview cards, and dot-matrix typography",
-      "🔢 Instant Bangla Number Pad: One-tap toggle key (১২৩ / 123) on the dialpad to switch between English & Bengali digits",
-      "📐 Real-Time Keyboard Resizer: Live visual feedback and interactive preview while adjusting keyboard height and margins",
-      "🌈 Theme-Adaptive Spacebar Accent: Spacebar color dynamically matches the active theme's accent color (Enter & Emoji keys)",
-      "🇧🇩 Full Bengali Typing Suite: Avro Phonetic, Probhat with [ ্য | য | র্য ] popup panel, Jatiyo Modern, Jatiyo Classic, and Alphabetical Bangla",
-      "🔔 Push Update Notifications: Automatic background update checking with Android status bar notifications",
-      "⚡ Major Optimization: Faster startup, lower memory footprint, and rock-solid stability"
-    ],
-    "actionLabel": "Download v1.2.3 Update (APK)",
-    "actionUrl": "https://github.com/fahitakrim/Orbit-Board/releases/download/v1.2.3/Orbit-Board-v1.2.3-arm64.apk",
-    "secondaryActionLabel": "Later",
-    "minVersionCode": 1,
-    "maxVersionCode": 12299,
-    "isCritical": false,
-    "autoShow": true
-  },
-  {
-    "id": "orbitboard-v1-2-3-installed-welcome",
-    "title": "ORBIT BOARD v1.2.3 (STABLE)",
-    "date": "November 2026",
-    "badge": "STABLE",
-    "summary": "Welcome to Orbit Board v1.2.3! Featuring our complete Nothing OS UI redesign, built-in Voice Typing, and instant Bengali Number Pad.",
-    "highlights": [
-      "🎙️ Voice Typing with microphone click audio toggle",
-      "🎨 Complete UI redesign with floating Nothing OS bottom dock",
-      "🔢 Dialpad ১২৩/123 toggle for instant Bengali numbers",
-      "📐 Real-time interactive keyboard resizer",
-      "100% offline, zero trackers, absolute privacy"
-    ],
-    "actionLabel": "Explore Releases",
-    "actionUrl": "https://github.com/fahitakrim/Orbit-Board/releases/tag/v1.2.3",
-    "secondaryActionLabel": "Close",
-    "minVersionCode": 12300,
-    "maxVersionCode": 2147483647,
-    "isCritical": false,
-    "autoShow": false
-  }
-]
+{
+  "id": "orbitboard-v1-2-3-major-redesign-update",
+  "title": "ORBIT BOARD v1.2.3: MAJOR UPDATE & REDESIGN",
+  "date": "November 2026",
+  "badge": "MAJOR UPDATE",
+  "summary": "Orbit Board v1.2.3 is live! Featuring a complete Nothing OS UI redesign, integrated Voice Typing, instant Bengali Number Pad toggle, real-time keyboard resizer, and adaptive theme styling.",
+  "highlights": [
+    "🎙️ Voice Typing Added: Fast, private on-device voice input directly on the action bar with mute click sound toggle",
+    "🎨 Complete UI Redesign: Authentic Nothing OS & Bauhaus aesthetic, floating bottom navigation dock, proportional preview cards, and dot-matrix typography",
+    "🔢 Instant Bangla Number Pad: One-tap toggle key (১২৩ / 123) on the dialpad to switch between English & Bengali digits",
+    "📐 Real-Time Keyboard Resizer: Live visual feedback and interactive preview while adjusting keyboard height and margins",
+    "🌈 Theme-Adaptive Spacebar Accent: Spacebar color dynamically matches the active theme's accent color (Enter & Emoji keys)",
+    "🇧🇩 Full Bengali Typing Suite: Avro Phonetic, Probhat with [ ্য | য | র্য ] popup panel, Jatiyo Modern, Jatiyo Classic, and Alphabetical Bangla",
+    "🔔 Push Update Notifications: Automatic background update checking with Android status bar notifications",
+    "⚡ Major Optimization: Faster startup, lower memory footprint, and rock-solid stability"
+  ],
+  "actionLabel": "Download v1.2.3 Update (APK)",
+  "actionUrl": "https://github.com/fahitakrim/Orbit-Board/releases/download/v1.2.3/Orbit-Board-v1.2.3-arm64.apk",
+  "secondaryActionLabel": "Later",
+  "minVersionCode": 1,
+  "maxVersionCode": 2147483647,
+  "isCritical": false,
+  "autoShow": true
+}
