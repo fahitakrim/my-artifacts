@@ -1,20 +1,43 @@
-{
-  "id": "orbitboard-v1-2-3-update",
-  "title": "ORBIT BOARD v1.2.3 IS LIVE",
-  "date": "November 2026",
-  "badge": "UPDATE",
-  "summary": "Orbit Board v1.2.3 introduces instant Bengali number pad toggle, live real-time keyboard resizer, theme accent spacebar, voice mic sound mute, and background push notifications.",
-  "highlights": [
-    "Bangla Number Pad: Instant switch between English and Bengali numbers on dialpad",
-    "Real-Time Resizer: Live interactive preview while adjusting height and margins",
-    "Adaptive Spacebar: Matches theme accent with clean border options",
-    "Push Notifications: Background update alerts via WorkManager"
-  ],
-  "actionLabel": "Download Update",
-  "actionUrl": "https://github.com/fahitakrim/Orbit-Board/releases/tag/v1.2.3",
-  "secondaryActionLabel": "Close",
-  "minVersionCode": 1,
-  "maxVersionCode": 2147483647,
-  "isCritical": false,
-  "autoShow": true
-}
+[
+  {
+    "id": "orbitboard-v1-2-3-update-prompt",
+    "title": "ORBIT BOARD v1.2.3 IS LIVE",
+    "date": "November 2026",
+    "badge": "UPDATE",
+    "summary": "Orbit Board v1.2.3 is now available! Featuring an instant Bengali number pad switch (১২৩/123), real-time live keyboard resizer, theme accent spacebar, voice mic sound mute, and background push notifications.",
+    "highlights": [
+      "Bangla Number Pad: Instant switch between English and Bengali numbers on dialpad",
+      "Real-Time Resizer: Live interactive preview while adjusting height and margins",
+      "Adaptive Spacebar: Matches theme accent with clean border options",
+      "Mic Sound Toggle: Mute/unmute microphone click audio feedback",
+      "Push Notifications: Background update alerts via WorkManager"
+    ],
+    "actionLabel": "Download Update (APK)",
+    "actionUrl": "https://github.com/fahitakrim/Orbit-Board/releases/download/v1.2.3/Orbit-Board-v1.2.3-arm64.apk",
+    "secondaryActionLabel": "Later",
+    "minVersionCode": 1,
+    "maxVersionCode": 12299,
+    "isCritical": false,
+    "autoShow": true
+  },
+  {
+    "id": "orbitboard-v1-2-3-installed-welcome",
+    "title": "ORBIT BOARD v1.2.3 (STABLE)",
+    "date": "November 2026",
+    "badge": "NEW",
+    "summary": "You are on the latest version of Orbit Board. Enjoy pure Nothing OS aesthetics with complete Bengali typing suite.",
+    "highlights": [
+      "Dialpad ১২৩/123 toggle: One tap to switch between English & Bengali digits",
+      "Real-time keyboard height & bottom space resizer",
+      "Theme-adaptive spacebar accent & custom borders",
+      "100% offline, zero trackers, absolute privacy"
+    ],
+    "actionLabel": "Release Notes",
+    "actionUrl": "https://github.com/fahitakrim/Orbit-Board/releases/tag/v1.2.3",
+    "secondaryActionLabel": "Close",
+    "minVersionCode": 12300,
+    "maxVersionCode": 2147483647,
+    "isCritical": false,
+    "autoShow": false
+  }
+]
