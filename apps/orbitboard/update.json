@@ -1,19 +1,19 @@
 {
-  "latestVersion": "1.0.8",
-  "versionCode": 10939,
-  "releaseDate": "October 2026",
-  "downloadUrl": "https://github.com/fahitakrim/my-artifacts/releases/tag/orbitboard-v1.0.8",
-  "mirrorDownloadUrl": "https://github.com/fahitakrim/my-artifacts/releases/tag/orbitboard-latest",
-  "releasePageUrl": "https://github.com/fahitakrim/my-artifacts/releases/tag/orbitboard-v1.0.8",
-  "title": "Orbit Board v1.0.8 (Stable)",
+  "latestVersion": "1.2.3",
+  "versionCode": 12300,
+  "releaseDate": "November 2026",
+  "downloadUrl": "https://github.com/fahitakrim/Orbit-Board/releases/download/v1.2.3/Orbit-Board-v1.2.3-arm64.apk",
+  "mirrorDownloadUrl": "https://github.com/fahitakrim/Orbit-Board/releases/tag/v1.2.3",
+  "releasePageUrl": "https://github.com/fahitakrim/Orbit-Board/releases/tag/v1.2.3",
+  "title": "Orbit Board v1.2.3 (Stable)",
   "changelog": [
-    "Two-Row Extended Action Bar: Word suggestions stay visible while all actions (Clipboard, Voice, Settings) expand in a dedicated second row",
-    "Probhat Layout More Keys Popup: Long-pressing 'য়' or 'য' opens the [ ্য | য | র্য ] popup panel for quick selection",
-    "Spacebar Name Pin Toggle: Choose to keep active keyboard name permanently pinned or allow it to smoothly fade out after switching",
-    "Independent Row Controls: Separate quick toggles for Suggestion Row and Number Row directly on Home settings",
-    "5-Row Alphabetical Bangla Layout Restored: Intuitive layout easily selectable alongside Avro, Jatiyo & Probhat",
-    "Language Selection Trap Fixed: Toggle or delete layouts freely without minimum keyboard traps",
-    "Performance & Size Optimization: Cleaned unneeded dictionaries and bloat for a fast, responsive typing experience"
+    "Instant Bengali Number Pad Switcher: Dialpad now includes a dedicated shortcut key (১২৩ / 123) to switch instantly between English and Bengali digits with long-press moreKeys.",
+    "Real-Time Interactive Keyboard Resizer: Live visual feedback and preview while adjusting keyboard height and bottom padding without guessing.",
+    "Adaptive Spacebar Accent: Spacebar color dynamically inherits the active theme's accent color (Enter & Emoji keys) with clean custom border options.",
+    "Voice Typing Microphone Click Sound Toggle: Option to easily mute/unmute audio feedback click when activating microphone.",
+    "Push Update Notifications: Integrated background WorkManager update checker alerting users through system notifications when a new version is released.",
+    "Native Bengali Suite: Full Avro Phonetic, Probhat with [ ্য | য | র্য ] popup panel, Jatiyo Modern, Jatiyo Classic, and Alphabetical Bangla layouts.",
+    "Performance & Stability: Fixed crash reports on specific devices and optimized input memory footprint."
   ],
   "isCritical": false
 }

@@ -1,17 +1,17 @@
 {
-  "id": "orbitboard-v1-0-8-update",
-  "title": "ORBIT BOARD v1.0.8 IS LIVE",
-  "date": "October 2026",
+  "id": "orbitboard-v1-2-3-update",
+  "title": "ORBIT BOARD v1.2.3 IS LIVE",
+  "date": "November 2026",
   "badge": "UPDATE",
-  "summary": "Orbit Board v1.0.8 brings two-row extended action bar with suggestions intact, Probhat [ ্য | য | র্য ] popup panel, spacebar name pin toggle, and major performance optimizations.",
+  "summary": "Orbit Board v1.2.3 introduces instant Bengali number pad toggle, live real-time keyboard resizer, theme accent spacebar, voice mic sound mute, and background push notifications.",
   "highlights": [
-    "Two-Row Action Bar: Suggestions remain visible while expanding full actions",
-    "Probhat Layout: Long-press 'য়' or 'য' for [ ্য | য | র্য ] popup panel",
-    "Spacebar Name Pin: Toggle permanently pinned or smooth fadeout on switch",
-    "Independent Row Controls: Separate toggles for Suggestion Row and Number Row"
+    "Bangla Number Pad: Instant switch between English and Bengali numbers on dialpad",
+    "Real-Time Resizer: Live interactive preview while adjusting height and margins",
+    "Adaptive Spacebar: Matches theme accent with clean border options",
+    "Push Notifications: Background update alerts via WorkManager"
   ],
   "actionLabel": "Download Update",
-  "actionUrl": "https://github.com/fahitakrim/my-artifacts/releases/tag/orbitboard-v1.0.8",
+  "actionUrl": "https://github.com/fahitakrim/Orbit-Board/releases/tag/v1.2.3",
   "secondaryActionLabel": "Close",
   "minVersionCode": 1,
   "maxVersionCode": 2147483647,
