@@ -30,7 +30,7 @@ This repository serves as the official release and distribution hub. The source 
 
 #### ✨ Key Features (v1.2.3 Stable)
 - 🎙️ **Voice Typing Added:** Fast, private voice typing built directly into the keyboard action bar (supporting system voice input & offline whisper engine) with a dedicated audio mute click toggle.
-- 🎨 **Complete UI Redesign:** Fully reimagined Nothing OS & Bauhaus design language, floating bottom navigation dock, proportional preview cards, dot-matrix typography, and AMOLED true dark aesthetics.
+- 🎨 **Complete UI Redesign:** Fully reimagined Nothing OS & Bauhaus design language, floating bottom navigation dock, proportional preview cards, dot-matrix typography, and AMOLED true dark aesthetics. *(Design shoutout: UI concept adapted from [Ali](https://www.facebook.com/aalidmg)'s Figma design)*
 - 🔢 **Instant Bengali Number Pad Switcher:** Dialpad now includes a dedicated shortcut key (`১২৩` / `123`) to switch instantly between English and Bengali numerals with long-press moreKeys.
 - 📐 **Real-Time Interactive Keyboard Resizer:** Live visual feedback and interactive preview while adjusting keyboard height and bottom padding without guessing.
 - 🌈 **Adaptive Spacebar Accent:** Spacebar color dynamically inherits the active theme's accent color (Enter & Emoji keys) with clean custom border options.
