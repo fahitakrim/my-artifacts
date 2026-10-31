@@ -29,13 +29,14 @@ This repository serves as the official release and distribution hub. The source 
 [![Theme](https://img.shields.io/badge/Theme-Nothing%20OS%20AMOLED-black?style=flat-square)](https://github.com/fahitakrim/Orbit-Board/releases/tag/v1.2.3)
 
 #### ✨ Key Features (v1.2.3 Stable)
+- 🎙️ **Voice Typing Added:** Fast, private voice typing built directly into the keyboard action bar (supporting system voice input & offline whisper engine) with a dedicated audio mute click toggle.
+- 🎨 **Complete UI Redesign:** Fully reimagined Nothing OS & Bauhaus design language, floating bottom navigation dock, proportional preview cards, dot-matrix typography, and AMOLED true dark aesthetics.
 - 🔢 **Instant Bengali Number Pad Switcher:** Dialpad now includes a dedicated shortcut key (`১২৩` / `123`) to switch instantly between English and Bengali numerals with long-press moreKeys.
 - 📐 **Real-Time Interactive Keyboard Resizer:** Live visual feedback and interactive preview while adjusting keyboard height and bottom padding without guessing.
-- 🎨 **Adaptive Spacebar Accent:** Spacebar color dynamically inherits the active theme's accent color (Enter & Emoji keys) with clean custom border options.
-- 🎙️ **Microphone Sound Toggle:** Added option to mute/unmute the audio click during voice typing.
-- 🔔 **Push Update Notifications:** Integrated background WorkManager update checker alerting users through system notifications when a new version is released.
+- 🌈 **Adaptive Spacebar Accent:** Spacebar color dynamically inherits the active theme's accent color (Enter & Emoji keys) with clean custom border options.
 - 🇧🇩 **Full Bengali Layout Suite:** Avro Phonetic, Probhat with `[ ্য | য | র্য ]` popup panel, Jatiyo Modern, Jatiyo Classic, and Alphabetical Bangla layouts.
-- 🔒 **Zero Analytics & Absolute Privacy:** 100% offline, no internet permission for keystrokes, completely secure.
+- 🔔 **Push Update Notifications:** Integrated background WorkManager update checker alerting users through system notifications when a new version is released.
+- 🔒 **Zero Analytics & Absolute Privacy:** 100% offline, zero internet permissions for keystrokes, completely secure.
 
 #### 📲 Download Orbit Board (v1.2.3 Stable)
 [![Download Orbit Board APK](https://img.shields.io/badge/Download-Orbit%20Board%20v1.2.3%20(APK)-E51C23?style=for-the-badge&logo=android&logoColor=white)](https://github.com/fahitakrim/Orbit-Board/releases/tag/v1.2.3)

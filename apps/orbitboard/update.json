@@ -5,15 +5,16 @@
   "downloadUrl": "https://github.com/fahitakrim/Orbit-Board/releases/download/v1.2.3/Orbit-Board-v1.2.3-arm64.apk",
   "mirrorDownloadUrl": "https://github.com/fahitakrim/Orbit-Board/releases/tag/v1.2.3",
   "releasePageUrl": "https://github.com/fahitakrim/Orbit-Board/releases/tag/v1.2.3",
-  "title": "Orbit Board v1.2.3 (Stable)",
+  "title": "Orbit Board v1.2.3 (Major Redesign & Voice Typing)",
   "changelog": [
-    "Instant Bengali Number Pad Switcher: Dialpad now includes a dedicated shortcut key (১২৩ / 123) to switch instantly between English and Bengali digits with long-press moreKeys.",
-    "Real-Time Interactive Keyboard Resizer: Live visual feedback and preview while adjusting keyboard height and bottom padding without guessing.",
-    "Adaptive Spacebar Accent: Spacebar color dynamically inherits the active theme's accent color (Enter & Emoji keys) with clean custom border options.",
-    "Voice Typing Microphone Click Sound Toggle: Option to easily mute/unmute audio feedback click when activating microphone.",
-    "Push Update Notifications: Integrated background WorkManager update checker alerting users through system notifications when a new version is released.",
-    "Native Bengali Suite: Full Avro Phonetic, Probhat with [ ্য | য | র্য ] popup panel, Jatiyo Modern, Jatiyo Classic, and Alphabetical Bangla layouts.",
-    "Performance & Stability: Fixed crash reports on specific devices and optimized input memory footprint."
+    "🎙️ Voice Typing Added: Fast, private on-device voice input accessible right from the action bar with mute click audio option.",
+    "🎨 Complete UI Redesign: Authentic Nothing OS & Bauhaus aesthetic, floating bottom navigation dock, proportional preview cards, and dot-matrix typography.",
+    "🔢 Instant Bengali Number Pad Switcher: Dedicated shortcut key (১২৩ / 123) on the dialpad to switch between English and Bengali numbers in one tap.",
+    "📐 Real-Time Interactive Keyboard Resizer: Live visual feedback and interactive preview while adjusting keyboard height and bottom padding.",
+    "🌈 Adaptive Spacebar Accent: Spacebar color dynamically matches the active theme's accent color (Enter & Emoji keys) with clean custom border options.",
+    "🇧🇩 Full Bengali Layout Suite: Avro Phonetic, Probhat with [ ্য | য | র্য ] popup panel, Jatiyo Modern, Jatiyo Classic, and Alphabetical Bangla layouts.",
+    "🔔 Push Update Notifications: Automatic background update checking alerting users through system notifications when a new version is released.",
+    "⚡ Optimized Performance & Crash Fixes: Faster startup, lower memory footprint, and rock-solid stability."
   ],
   "isCritical": false
 }
