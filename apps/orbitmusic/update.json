@@ -1,16 +1,16 @@
 {
-  "latestVersion": "3.6.0",
-  "versionCode": 14,
-  "releaseDate": "October 2026",
-  "downloadUrl": "https://github.com/fahitakrim/my-artifacts/releases/download/v3.6.0/Orbit-Music-v3.6.0.apk",
-  "releasePageUrl": "https://github.com/fahitakrim/my-artifacts/releases/tag/v3.6.0",
+  "latestVersion": "3.6.3",
+  "versionCode": 16,
+  "releaseDate": "November 2026",
+  "downloadUrl": "https://github.com/fahitakrim/my-artifacts/releases/download/v3.6.3/Orbit-Music-v3.6.3.apk",
+  "releasePageUrl": "https://github.com/fahitakrim/my-artifacts/releases/tag/v3.6.3",
   "changelog": [
-    "Cleaner Home page with pinned header and easy sorting",
-    "Playback speed control: adjust from 0.5x to 2.0x",
-    "A-B Looper to repeat any song section",
-    "Custom sleep timer with minute slider",
-    "Better lossless audio and offline lyrics support",
-    "Stability and performance improvements"
+    "Pixel-style dynamic widgets: Classic card, 2x2 quadrant, and 4x1 bar",
+    "Material You dynamic theming and Glance support for home screen widgets",
+    "Ultra-responsive Now Playing swipe gestures with fluid drag sensitivity",
+    "Eliminated swipe stutter, freezing, and race conditions during mini player expansion",
+    "Refreshed Bauhaus & Nothing OS launcher icons and typography",
+    "General stability enhancements and performance optimizations"
   ],
   "isCritical": false
 }
