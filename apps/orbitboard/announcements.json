@@ -1,5 +1,28 @@
 [
   {
+    "id": "orbitboard-v1-3-9-constellation-update",
+    "title": "ORBIT BOARD v1.3.9: CONSTELLATION WEB & ERGONOMICS",
+    "date": "November 2026",
+    "badge": "NEW UPDATE",
+    "summary": "Orbit Board v1.3.9 is now available! Featuring the new Constellation Web typing effect, tuned bubble burst, compact language switcher, perfected Probhat layout ergonomics, and enhanced fonts.",
+    "highlights": [
+      "🌌 New Typing Effect: Constellation Web with radiating cyber threads and glowing Nothing Red nodes",
+      "🫧 Refined Bubble Burst: Calibrated to 20 Bauhaus micro-particles for crisp tactile feedback without visual clutter",
+      "🌐 Minimal Language Dialog: Dynamic wrap-content sizing with 20dp Bauhaus rounded corners",
+      "🇧🇩 Probhat Ergonomics: Long-press 'র' brings 'ড়' (center), '্র' (right), and 'র্' (left) for natural typing flow",
+      "🔤 Typography Polish: Full Agency FB font with lowercase support; Qurova numerals demo logo glitch resolved",
+      "⚡ Performance: 120Hz zero-allocation render loop for butter-smooth display responsiveness",
+      "🔒 100% Offline & Private: Zero network permissions, complete on-device keystroke privacy"
+    ],
+    "actionLabel": "Download v1.3.9 Update (APK)",
+    "actionUrl": "https://github.com/fahitakrim/Orbit-Board/releases/download/v1.3.9/Orbit-Board-v1.3.9-arm64-release.apk",
+    "secondaryActionLabel": "Later",
+    "minVersionCode": 1,
+    "maxVersionCode": 12315,
+    "isCritical": false,
+    "autoShow": true
+  },
+  {
     "id": "orbitboard-v123-mic-permission-notice-v1",
     "title": "VOICE TYPING: MICROPHONE PERMISSION",
     "date": "November 2026",
@@ -16,30 +39,6 @@
     "secondaryActionLabel": "Dismiss",
     "minVersionCode": 12300,
     "maxVersionCode": 2147483647,
-    "isCritical": false,
-    "autoShow": true
-  },
-  {
-    "id": "orbitboard-v1-2-3-major-redesign-update",
-    "title": "ORBIT BOARD v1.2.3: MAJOR UPDATE & REDESIGN",
-    "date": "November 2026",
-    "badge": "MAJOR UPDATE",
-    "summary": "Orbit Board v1.2.3 is live! Featuring a complete Nothing OS UI redesign, integrated Voice Typing, instant Bengali Number Pad toggle, real-time keyboard resizer, and adaptive theme styling.",
-    "highlights": [
-      "🎙️ Voice Typing Added: Fast, private on-device voice input directly on the action bar with mute click sound toggle",
-      "🎨 Complete UI Redesign: Authentic Nothing OS & Bauhaus aesthetic, floating bottom navigation dock, proportional preview cards, and dot-matrix typography",
-      "🔢 Instant Bangla Number Pad: One-tap toggle key (১২৩ / 123) on the dialpad to switch between English & Bengali digits",
-      "📐 Real-Time Keyboard Resizer: Live visual feedback and interactive preview while adjusting keyboard height and margins",
-      "🌈 Theme-Adaptive Spacebar Accent: Spacebar color dynamically matches the active theme's accent color (Enter & Emoji keys)",
-      "🇧🇩 Full Bengali Typing Suite: Avro Phonetic, Probhat with [ ্য | য | র্য ] popup panel, Jatiyo Modern, Jatiyo Classic, and Alphabetical Bangla",
-      "🔔 Push Update Notifications: Automatic background update checking with Android status bar notifications",
-      "⚡ Major Optimization: Faster startup, lower memory footprint, and rock-solid stability"
-    ],
-    "actionLabel": "Download v1.2.3 Update (APK)",
-    "actionUrl": "https://github.com/fahitakrim/Orbit-Board/releases/download/v1.2.3/Orbit-Board-v1.2.3-arm64.apk",
-    "secondaryActionLabel": "Later",
-    "minVersionCode": 1,
-    "maxVersionCode": 12299,
     "isCritical": false,
     "autoShow": true
   }

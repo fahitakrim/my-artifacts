@@ -1,20 +1,19 @@
 {
-  "latestVersion": "1.2.3",
-  "versionCode": 12300,
+  "latestVersion": "1.3.9",
+  "versionCode": 12316,
   "releaseDate": "November 2026",
-  "downloadUrl": "https://github.com/fahitakrim/Orbit-Board/releases/download/v1.2.3/Orbit-Board-v1.2.3-arm64.apk",
-  "mirrorDownloadUrl": "https://github.com/fahitakrim/Orbit-Board/releases/tag/v1.2.3",
-  "releasePageUrl": "https://github.com/fahitakrim/Orbit-Board/releases/tag/v1.2.3",
-  "title": "Orbit Board v1.2.3 (Major Redesign & Voice Typing)",
+  "downloadUrl": "https://github.com/fahitakrim/Orbit-Board/releases/download/v1.3.9/Orbit-Board-v1.3.9-arm64-release.apk",
+  "mirrorDownloadUrl": "https://github.com/fahitakrim/Orbit-Board/releases/tag/v1.3.9",
+  "releasePageUrl": "https://github.com/fahitakrim/Orbit-Board/releases/tag/v1.3.9",
+  "title": "Orbit Board v1.3.9 (Constellation Web, Bengali Ergonomics & Typography Polish)",
   "changelog": [
-    "🎙️ Voice Typing Added: Fast, private on-device voice input accessible right from the action bar with mute click audio option.",
-    "🎨 Complete UI Redesign: Authentic Nothing OS & Bauhaus aesthetic, floating bottom navigation dock, proportional preview cards, and dot-matrix typography.",
-    "🔢 Instant Bengali Number Pad Switcher: Dedicated shortcut key (১২৩ / 123) on the dialpad to switch between English and Bengali numbers in one tap.",
-    "📐 Real-Time Interactive Keyboard Resizer: Live visual feedback and interactive preview while adjusting keyboard height and bottom padding.",
-    "🌈 Adaptive Spacebar Accent: Spacebar color dynamically matches the active theme's accent color (Enter & Emoji keys) with clean custom border options.",
-    "🇧🇩 Full Bengali Layout Suite: Avro Phonetic, Probhat with [ ্য | য | র্য ] popup panel, Jatiyo Modern, Jatiyo Classic, and Alphabetical Bangla layouts.",
-    "🔔 Push Update Notifications: Automatic background update checking alerting users through system notifications when a new version is released.",
-    "⚡ Optimized Performance & Crash Fixes: Faster startup, lower memory footprint, and rock-solid stability."
+    "🌌 New Typing Effect: Constellation Web — Dynamic cyber threads and glowing Nothing Red nodes",
+    "🫧 Calibrated Bubble Burst: Reduced particle count to 20 with refined 2.6–5.4px radius for focused, tactile feedback",
+    "🌐 Minimal Language Dialog: Compact wrap-content dialog with 20dp Bauhaus rounded corners, eliminating empty space",
+    "🇧🇩 Probhat Ergonomics: Long-press 'র' brings 'ড়' in center, '্র' (ro-phola) on the right, and 'র্' (reph) on the left",
+    "🔤 Typography & Font Upgrades: Full Agency FB font with lowercase support; Qurova numeral demo logo glitch resolved",
+    "⚡ 120Hz Zero-Allocation Loop: Butter-smooth 120Hz display responsiveness with zero GC allocations",
+    "🔒 100% Offline & Private: Zero network permissions, complete on-device keystroke privacy"
   ],
   "isCritical": false
 }

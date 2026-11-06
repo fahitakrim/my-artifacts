@@ -10,11 +10,11 @@ This repository serves as the official release and distribution hub. The source 
 
 | Application | Description | Download | Release Notes |
 | :--- | :--- | :--- | :--- |
-| ⌨️ **Orbit Board** | Private, minimal keyboard with Nothing OS design & Bengali layouts | [⬇️ Download](https://github.com/fahitakrim/Orbit-Board/releases/tag/v1.2.3) | [v1.2.3 Notes](https://github.com/fahitakrim/Orbit-Board/releases/tag/v1.2.3) |
+| ⌨️ **Orbit Board** | Private, minimal keyboard with Nothing OS design & Bengali layouts | [⬇️ Download](https://github.com/fahitakrim/Orbit-Board/releases/tag/v1.3.9) | [v1.3.9 Notes](https://github.com/fahitakrim/Orbit-Board/releases/tag/v1.3.9) |
 | 🪐 **Orbitwall** | 4K wallpaper app with live Nothing OS lock screen clock faces | [⬇️ Download](https://github.com/fahitakrim/my-artifacts/releases/download/orbitwall-latest/Orbitwall.apk) | [v1.1.5 Notes](https://github.com/fahitakrim/Orbitwall/releases/tag/v1.1.5) |
 | 🎵 **Orbit Music** | Minimalist offline music player with Nothing OS & Bauhaus design | [⬇️ Download](https://github.com/fahitakrim/my-artifacts/releases/download/v3.6.3/Orbit-Music-v3.6.3.apk) | [v3.6.3 Notes](https://github.com/fahitakrim/my-artifacts/releases/tag/v3.6.3) |
 
-> 🔗 **Permanent Download Releases:** [Orbit Board v1.2.3 on GitHub](https://github.com/fahitakrim/Orbit-Board/releases/tag/v1.2.3)
+> 🔗 **Permanent Download Releases:** [Orbit Board v1.3.9 on GitHub](https://github.com/fahitakrim/Orbit-Board/releases/tag/v1.3.9)
 
 ---
 
@@ -23,27 +23,32 @@ This repository serves as the official release and distribution hub. The source 
 ### 1. Orbit Board ⌨️ — Stable Release
 > *A private, minimal Android keyboard crafted specifically for Nothing OS with complete Bengali layout support (Avro, Jatiyo, Probhat, Bangla).*
 
-[![Version](https://img.shields.io/badge/Version-v1.2.3%20Stable-E51C23?style=flat-square)](https://github.com/fahitakrim/Orbit-Board/releases/tag/v1.2.3)
-[![Android](https://img.shields.io/badge/Android-8.0%2B-3DDC84?style=flat-square&logo=android&logoColor=white)](https://github.com/fahitakrim/Orbit-Board/releases/tag/v1.2.3)
-[![Privacy](https://img.shields.io/badge/Privacy-100%25%20On--Device-blue?style=flat-square)](https://github.com/fahitakrim/Orbit-Board/releases/tag/v1.2.3)
-[![Theme](https://img.shields.io/badge/Theme-Nothing%20OS%20AMOLED-black?style=flat-square)](https://github.com/fahitakrim/Orbit-Board/releases/tag/v1.2.3)
+[![Version](https://img.shields.io/badge/Version-v1.3.9%20Stable-E51C23?style=flat-square)](https://github.com/fahitakrim/Orbit-Board/releases/tag/v1.3.9)
+[![Android](https://img.shields.io/badge/Android-8.0%2B-3DDC84?style=flat-square&logo=android&logoColor=white)](https://github.com/fahitakrim/Orbit-Board/releases/tag/v1.3.9)
+[![Privacy](https://img.shields.io/badge/Privacy-100%25%20On--Device-blue?style=flat-square)](https://github.com/fahitakrim/Orbit-Board/releases/tag/v1.3.9)
+[![Theme](https://img.shields.io/badge/Theme-Nothing%20OS%20AMOLED-black?style=flat-square)](https://github.com/fahitakrim/Orbit-Board/releases/tag/v1.3.9)
 
-#### ✨ Key Features (v1.2.3 Stable)
-- 🎙️ **Voice Typing Added:** Fast, private voice typing built directly into the keyboard action bar (supporting system voice input & offline whisper engine) with a dedicated audio mute click toggle.
-- 🎨 **Complete UI Redesign:** Fully reimagined Nothing OS & Bauhaus design language, floating bottom navigation dock, proportional preview cards, dot-matrix typography, and AMOLED true dark aesthetics. *(Design shoutout: UI concept adapted from [Ali](https://www.facebook.com/aalidmg)'s Figma design)*
-- 🔢 **Instant Bengali Number Pad Switcher:** Dialpad now includes a dedicated shortcut key (`১২৩` / `123`) to switch instantly between English and Bengali numerals with long-press moreKeys.
-- 📐 **Real-Time Interactive Keyboard Resizer:** Live visual feedback and interactive preview while adjusting keyboard height and bottom padding without guessing.
-- 🌈 **Adaptive Spacebar Accent:** Spacebar color dynamically inherits the active theme's accent color (Enter & Emoji keys) with clean custom border options.
+#### ✨ Key Features (v1.3.9 Stable)
+- 🌌 **Constellation Web Typing Effect:** New Option B typing effect spawning interconnected cyber threads and glowing Nothing Red nodes under active keys.
+- 🫧 **Calibrated Bubble Burst Particles:** Tuned to 20 Bauhaus micro-dots (2.6–5.4px) for organic tactile feedback without visual clutter.
+- 🌐 **Minimal Language Switcher Dialog:** Compact wrap-content dialog with 20dp Bauhaus rounded corners, eliminating empty screen space.
+- 🇧🇩 **Probhat Layout Ergonomics:** Long-pressing 'র' brings 'ড়' (center), '্র' (ro-phola, right), and 'র্' (reph, left) for natural typing flow.
+- 🔤 **Typography Polish:** Full Agency FB font with lowercase support; Qurova numerals demo logo glitch resolved.
+- 🎙️ **Voice Typing Added:** Fast, private voice typing built directly into the keyboard action bar with a dedicated audio mute click toggle.
+- 🎨 **Complete UI Redesign:** Fully reimagined Nothing OS & Bauhaus design language, floating bottom navigation dock, proportional preview cards, dot-matrix typography, and AMOLED true dark aesthetics.
+- 🔢 **Instant Bengali Number Pad Switcher:** Dialpad now includes a dedicated shortcut key (`১২৩` / `123`) to switch instantly between English and Bengali numerals.
+- 📐 **Real-Time Interactive Keyboard Resizer:** Live visual feedback and interactive preview while adjusting keyboard height and bottom padding.
+- 🌈 **Adaptive Spacebar Accent:** Spacebar color dynamically inherits the active theme's accent color (Enter & Emoji keys).
 - 🇧🇩 **Full Bengali Layout Suite:** Avro Phonetic, Probhat with `[ ্য | য | র্য ]` popup panel, Jatiyo Modern, Jatiyo Classic, and Alphabetical Bangla layouts.
 - 🔔 **Push Update Notifications:** Integrated background WorkManager update checker alerting users through system notifications when a new version is released.
 - 🔒 **Zero Analytics & Absolute Privacy:** 100% offline, zero internet permissions for keystrokes, completely secure.
 
-#### 📲 Download Orbit Board (v1.2.3 Stable)
-[![Download Orbit Board APK](https://img.shields.io/badge/Download-Orbit%20Board%20v1.2.3%20(APK)-E51C23?style=for-the-badge&logo=android&logoColor=white)](https://github.com/fahitakrim/Orbit-Board/releases/tag/v1.2.3)
+#### 📲 Download Orbit Board (v1.3.9 Stable)
+[![Download Orbit Board APK](https://img.shields.io/badge/Download-Orbit%20Board%20v1.3.9%20(APK)-E51C23?style=for-the-badge&logo=android&logoColor=white)](https://github.com/fahitakrim/Orbit-Board/releases/tag/v1.3.9)
 
-* **ARM64-v8a Direct APK:** [Orbit-Board-v1.2.3-arm64.apk](https://github.com/fahitakrim/Orbit-Board/releases/download/v1.2.3/Orbit-Board-v1.2.3-arm64.apk) *(Recommended)*
-* **Universal Direct APK:** [Orbit-Board-v1.2.3-universal.apk](https://github.com/fahitakrim/Orbit-Board/releases/download/v1.2.3/Orbit-Board-v1.2.3-universal.apk)
-* **GitHub Release Page:** [Orbit Board v1.2.3 Release](https://github.com/fahitakrim/Orbit-Board/releases/tag/v1.2.3)
+* **ARM64-v8a Direct APK:** [Orbit-Board-v1.3.9-arm64-release.apk](https://github.com/fahitakrim/Orbit-Board/releases/download/v1.3.9/Orbit-Board-v1.3.9-arm64-release.apk) *(Recommended)*
+* **Universal Direct APK:** [Orbit-Board-v1.3.9-universal-release.apk](https://github.com/fahitakrim/Orbit-Board/releases/download/v1.3.9/Orbit-Board-v1.3.9-universal-release.apk)
+* **GitHub Release Page:** [Orbit Board v1.3.9 Release](https://github.com/fahitakrim/Orbit-Board/releases/tag/v1.3.9)
 * **Project Repository:** [Orbit Board on GitHub](https://github.com/fahitakrim/Orbit-Board)
 
 ---
