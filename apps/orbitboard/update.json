@@ -1,19 +1,21 @@
 {
   "latestVersion": "1.3.9",
-  "versionCode": 12316,
+  "versionCode": 12317,
   "releaseDate": "November 2026",
   "downloadUrl": "https://github.com/fahitakrim/Orbit-Board/releases/download/v1.3.9/Orbit-Board-v1.3.9-arm64-release.apk",
+  "universalDownloadUrl": "https://github.com/fahitakrim/Orbit-Board/releases/download/v1.3.9/Orbit-Board-v1.3.9-universal-release.apk",
   "mirrorDownloadUrl": "https://github.com/fahitakrim/Orbit-Board/releases/tag/v1.3.9",
   "releasePageUrl": "https://github.com/fahitakrim/Orbit-Board/releases/tag/v1.3.9",
   "title": "Orbit Board v1.3.9 (Constellation Web, Bengali Ergonomics & Typography Polish)",
   "changelog": [
     "🌌 New Typing Effect: Constellation Web — Dynamic cyber threads and glowing Nothing Red nodes",
     "🫧 Calibrated Bubble Burst: Reduced particle count to 20 with refined 2.6–5.4px radius for focused, tactile feedback",
-    "🌐 Minimal Language Dialog: Compact wrap-content dialog with 20dp Bauhaus rounded corners, eliminating empty space",
+    "🌐 Minimal Language Dialog: Dynamic wrap-content sizing with 20dp Bauhaus rounded corners, eliminating empty space",
     "🇧🇩 Probhat Ergonomics: Long-press 'র' brings 'ড়' in center, '্র' (ro-phola) on the right, and 'র্' (reph) on the left",
     "🔤 Typography & Font Upgrades: Full Agency FB font with lowercase support; Qurova numeral demo logo glitch resolved",
     "⚡ 120Hz Zero-Allocation Loop: Butter-smooth 120Hz display responsiveness with zero GC allocations",
     "🔒 100% Offline & Private: Zero network permissions, complete on-device keystroke privacy"
   ],
-  "isCritical": false
+  "isCritical": true,
+  "autoShow": true
 }

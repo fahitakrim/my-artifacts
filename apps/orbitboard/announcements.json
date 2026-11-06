@@ -18,8 +18,8 @@
     "actionUrl": "https://github.com/fahitakrim/Orbit-Board/releases/download/v1.3.9/Orbit-Board-v1.3.9-arm64-release.apk",
     "secondaryActionLabel": "Later",
     "minVersionCode": 1,
-    "maxVersionCode": 12315,
-    "isCritical": false,
+    "maxVersionCode": 12316,
+    "isCritical": true,
     "autoShow": true
   },
   {
@@ -37,9 +37,9 @@
     "actionLabel": "View Permission Guide",
     "actionUrl": "https://github.com/fahitakrim/Orbit-Board#voice-typing-and-microphone-permission",
     "secondaryActionLabel": "Dismiss",
-    "minVersionCode": 12300,
+    "minVersionCode": 12317,
     "maxVersionCode": 2147483647,
     "isCritical": false,
-    "autoShow": true
+    "autoShow": false
   }
 ]
