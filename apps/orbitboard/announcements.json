@@ -1,18 +1,19 @@
 [
   {
-    "id": "orbitboard-v1-3-9-constellation-update",
-    "title": "ORBIT BOARD v1.3.9: CONSTELLATION WEB & ERGONOMICS",
+    "id": "orbitboard-v1-3-9-major-feature-update",
+    "title": "ORBIT BOARD v1.3.9: MAJOR FEATURE & ERGONOMICS UPDATE",
     "date": "November 2026",
     "badge": "NEW UPDATE",
-    "summary": "Orbit Board v1.3.9 is now available! Featuring the new Constellation Web typing effect, tuned bubble burst, compact language switcher, perfected Probhat layout ergonomics, and enhanced fonts.",
+    "summary": "Orbit Board v1.3.9 is out with exciting additions: 2 new fonts (Agency FB & Qurova), Constellation Web effect, voice typing enhancements, spacebar customization, 3 new popups, and new themes!",
     "highlights": [
-      "🌌 New Typing Effect: Constellation Web with radiating cyber threads and glowing Nothing Red nodes",
-      "🫧 Refined Bubble Burst: Calibrated to 20 Bauhaus micro-particles for crisp tactile feedback without visual clutter",
-      "🌐 Minimal Language Dialog: Dynamic wrap-content sizing with 20dp Bauhaus rounded corners",
-      "🇧🇩 Probhat Ergonomics: Long-press 'র' brings 'ড়' (center), '্র' (right), and 'র্' (left) for natural typing flow",
-      "🔤 Typography Polish: Full Agency FB font with lowercase support; Qurova numerals demo logo glitch resolved",
-      "⚡ Performance: 120Hz zero-allocation render loop for butter-smooth display responsiveness",
-      "🔒 100% Offline & Private: Zero network permissions, complete on-device keystroke privacy"
+      "🔤 2 New Fonts: Agency FB (modern geometric sans) and Qurova (futuristic rounded typography with fixed numeral fallbacks)",
+      "🌌 Typing Effects: Constellation Web (cyber threads & Nothing Red nodes), tuned Bubble Burst (20 micro-particles), Radar Wave, and Particle Burst",
+      "🎙️ Voice Typing: System speech engine fallback, offline recognition, permission guidance, and 'Mute Voice Typing Sound' toggle",
+      "🇧🇩 Key Ergonomics: Probhat 'র' popup re-engineered (ড় center, ্র right, র্ left), Jatiyo Dari '।' shifted to Dot '.' position, and hint labels",
+      "␣ Spacebar Customization: Swipe cursor navigation, spacebar language label display/pinning with smooth fadeout",
+      "✨ 3 New Popups: Minimal wrap-content Language Switcher dialog, In-App Auto-Update BottomSheet, and Remote Announcement BottomSheet",
+      "🎨 New Themes: Taiyaki Bakery (warm toasted biscuit aesthetic), Chaos Theme, and tuned Matte Orbit palettes",
+      "🔒 100% Offline & Private: Zero network permissions, complete on-device privacy"
     ],
     "actionLabel": "Download v1.3.9 Update (APK)",
     "actionUrl": "https://github.com/fahitakrim/Orbit-Board/releases/download/v1.3.9/Orbit-Board-v1.3.9-arm64-release.apk",
