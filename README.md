@@ -14,7 +14,7 @@
   Welcome to the official distribution hub for the <b>Orbit Ecosystem</b>. Handcrafted Android applications engineered with a distinctive <b>Nothing OS & Bauhaus aesthetic</b>, uncompromising privacy, and fluid performance by <b><a href="https://x.com/TakrimFahim">Fahim Takrim</a></b>.
 </p>
 
-### 📲 [Browse All Releases](https://github.com/fahitakrim/my-artifacts/releases) · [Orbit Music APK (v3.6.3)](https://github.com/fahitakrim/my-artifacts/releases/download/v3.6.3/Orbit-Music-v3.6.3.apk) · [Orbit Board APK (v1.3.9)](https://github.com/fahitakrim/Orbit-Board/releases/tag/v1.3.9) · [Orbitwall APK (v1.1.5)](https://github.com/fahitakrim/my-artifacts/releases/download/orbitwall-latest/Orbitwall.apk)
+### 📲 [Browse All Releases](https://github.com/fahitakrim/my-artifacts/releases) · [Orbit Music APK (v3.6.3)](https://github.com/fahitakrim/my-artifacts/releases/download/v3.6.3/Orbit-Music-v3.6.3.apk) · [Orbit Board APK (v1.4.6)](https://github.com/fahitakrim/Orbit-Board/releases/tag/v1.4.6) · [Orbitwall APK (v1.1.5)](https://github.com/fahitakrim/my-artifacts/releases/download/orbitwall-latest/Orbitwall.apk)
 
 </div>
 
@@ -25,7 +25,7 @@
 | Application | Category | Latest Version | Direct Download | Release Notes |
 | :--- | :--- | :---: | :---: | :---: |
 | 🎵 **Orbit Music** | Minimalist Offline Music Player | `v3.6.3` Stable | [⬇️ Download APK (12.2 MB)](https://github.com/fahitakrim/my-artifacts/releases/download/v3.6.3/Orbit-Music-v3.6.3.apk) | [v3.6.3 Notes](https://github.com/fahitakrim/my-artifacts/releases/tag/v3.6.3) |
-| ⌨️ **Orbit Board** | Nothing OS Keyboard & Bengali Layouts | `v1.3.9` Stable | [⬇️ Download APK (24 MB)](https://github.com/fahitakrim/Orbit-Board/releases/tag/v1.3.9) | [v1.3.9 Notes](https://github.com/fahitakrim/Orbit-Board/releases/tag/v1.3.9) |
+| ⌨️ **Orbit Board** | Nothing OS Keyboard & Bengali Layouts | `v1.4.6` Stable | [⬇️ Download APK (12.8 MB)](https://github.com/fahitakrim/Orbit-Board/releases/tag/v1.4.6) | [v1.4.6 Notes](https://github.com/fahitakrim/Orbit-Board/releases/tag/v1.4.6) |
 | 🪐 **Orbitwall** | 4K Wallpaper & Lockscreen Clocks | `v1.1.5` Latest | [⬇️ Download APK (2.8 MB)](https://github.com/fahitakrim/my-artifacts/releases/download/orbitwall-latest/Orbitwall.apk) | [v1.1.5 Notes](https://github.com/fahitakrim/my-artifacts/releases/tag/v1.1.5) |
 
 ---
@@ -93,24 +93,26 @@
 
 > *A private, minimal Android keyboard crafted specifically with a Nothing OS aesthetic and complete Bengali layout support (Avro, Jatiyo, Probhat, Bangla).*
 
-[![Version](https://img.shields.io/badge/Version-v1.3.9%20Stable-E51C23?style=flat-square)](https://github.com/fahitakrim/Orbit-Board/releases/tag/v1.3.9)
-[![Android](https://img.shields.io/badge/Android-8.0%2B-3DDC84?style=flat-square&logo=android)](https://github.com/fahitakrim/Orbit-Board/releases/tag/v1.3.9)
-[![Privacy](https://img.shields.io/badge/Privacy-100%25%20On--Device-blue?style=flat-square)](https://github.com/fahitakrim/Orbit-Board/releases/tag/v1.3.9)
-[![Theme](https://img.shields.io/badge/Theme-Nothing%20OS%20AMOLED-black?style=flat-square)](https://github.com/fahitakrim/Orbit-Board/releases/tag/v1.3.9)
+[![Version](https://img.shields.io/badge/Version-v1.4.6%20Stable-E51C23?style=flat-square)](https://github.com/fahitakrim/Orbit-Board/releases/tag/v1.4.6)
+[![Android](https://img.shields.io/badge/Android-8.0%2B-3DDC84?style=flat-square&logo=android)](https://github.com/fahitakrim/Orbit-Board/releases/tag/v1.4.6)
+[![Privacy](https://img.shields.io/badge/Privacy-100%25%20On--Device-blue?style=flat-square)](https://github.com/fahitakrim/Orbit-Board/releases/tag/v1.4.6)
+[![Theme](https://img.shields.io/badge/Theme-Nothing%20OS%20AMOLED-black?style=flat-square)](https://github.com/fahitakrim/Orbit-Board/releases/tag/v1.4.6)
 
-### ✨ Key Features (Orbit Board v1.3.9)
-* 🌌 **Constellation Web Typing Effect:** Cyber threads and glowing Nothing Red nodes under active keystrokes.
-* 🫧 **Calibrated Bubble Burst Particles:** 20 tuned Bauhaus micro-dots for clean tactile feedback.
-* 🇧🇩 **Full Bengali Layout Suite:** Avro Phonetic, Probhat with `[ ্য | য | র্য ]` ergonomic popup, Jatiyo Modern, Jatiyo Classic, and Alphabetical Bangla.
-* 🔢 **Instant Bengali Number Pad Switcher:** Dialpad shortcut key (`১২৩` / `123`) to toggle instantly between English and Bengali numbers.
-* 📐 **Interactive Real-Time Resizer:** Live visual feedback while adjusting keyboard height and bottom padding.
-* 🎙️ **Private Voice Typing:** Fast on-device voice typing with dedicated audio mute click toggle.
-* 🔒 **Zero Telemetry:** 100% on-device processing. No keystroke logging, zero network permissions.
+### ✨ Key Features (Orbit Board v1.4.6)
+* ⚙️ **Refactored Settings & Main App UI:** Clean, reorganized layout and custom spacebar styling (Boxy, Bauhaus, Rounded).
+* 🎨 **New Themes:** 3 new special themes & 2 new regular themes added *(more coming soon!)*.
+* 🇧🇩 **New Library for Avro:** Upgraded phonetic engine with zero-shift conjuncts (যুক্তবর্ণ) — *let us know how your writing experience feels now!*
+* ⚡ **App Size Optimization:** 55% smaller package size (reduced from 28.5 MB down to 12.8 MB).
+* 🌐 **Translation Improvement:** Fixed premature closure bug; type and translate smoothly in real-time.
+* 🎙️ **Voice Typing Improvement:** Continuous dictation with extended timeout and instant speech trigger.
+* 📳 **Haptic Improvement:** Real-time slider scaling and tactile feedback tuning.
+* ✂️ **Text Edit Action Improvement:** Added Select All and Cut keys with universal clipboard compatibility.
+* 🛡️ **Stability & Performance:** Eliminated startup crashes on Chinese OEM ROMs and optimized 120Hz display loop.
 
 ### 📥 Download Orbit Board APK
-* **ARM64-v8a Direct APK:** [Orbit-Board-v1.3.9-arm64-release.apk](https://github.com/fahitakrim/Orbit-Board/releases/download/v1.3.9/Orbit-Board-v1.3.9-arm64-release.apk) *(Recommended)*
-* **Universal Direct APK:** [Orbit-Board-v1.3.9-universal-release.apk](https://github.com/fahitakrim/Orbit-Board/releases/download/v1.3.9/Orbit-Board-v1.3.9-universal-release.apk)
-* **GitHub Release Page:** [Orbit Board v1.3.9 Release](https://github.com/fahitakrim/Orbit-Board/releases/tag/v1.3.9)
+* **ARM64-v8a Direct APK:** [Orbit-Board-v1.4.6-arm64-release.apk](https://github.com/fahitakrim/Orbit-Board/releases/download/v1.4.6/Orbit-Board-v1.4.6-arm64-release.apk) *(12.8 MB, Recommended)*
+* **Universal Direct APK:** [Orbit-Board-v1.4.6-universal-release.apk](https://github.com/fahitakrim/Orbit-Board/releases/download/v1.4.6/Orbit-Board-v1.4.6-universal-release.apk) *(15.9 MB)*
+* **GitHub Release Page:** [Orbit Board v1.4.6 Release](https://github.com/fahitakrim/Orbit-Board/releases/tag/v1.4.6)
 
 ---
 
