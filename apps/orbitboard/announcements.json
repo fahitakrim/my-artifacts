@@ -1,25 +1,23 @@
 [
   {
-    "id": "orbitboard-v1-4-6-major-feature-update",
-    "title": "ORBIT BOARD v1.4.6 UPDATE",
+    "id": "orbitboard-v2-0-0-major-release",
+    "title": "ORBIT BOARD v2.0.0 RELEASE",
     "date": "November 2026",
-    "badge": "NEW UPDATE",
-    "summary": "Orbit Board v1.4.6 is here with a refactored UI, 5 new themes, a brand-new Avro library, 55% smaller app size, and big improvements to translation, voice typing, and haptics!",
+    "badge": "NEW RELEASE",
+    "summary": "Orbit Board v2.0.0 brings a redesigned 5-tab Customization Studio with live preview, the new Monored theme, dynamic arrow-pinned menu, Latin swipe typing, and richer Bengali typing.",
     "highlights": [
-      "⚙️ Refactored Settings & Main App UI",
-      "🎨 3 new special themes & 2 new regular themes (more coming)",
-      "🇧🇩 New library for Avro (let us know it's writing experience now)",
-      "⚡ App size optimization: 55% smaller (28.5 MB -> 12.8 MB)",
-      "🌐 Translation improvement",
-      "🎙️ Voice typing improvement",
-      "📳 Haptic improvement",
-      "✂️ Text edit action improvement"
+      "🔴 New App Icon & Monored Theme",
+      "🎨 5-Tab Studio: Live Preview, Monet (You), Hex Keypad, Wallpapers & Glass/Float",
+      "🧭 Dynamic Action Bar: Auto-hides while typing, returns on Enter/Full Stop + 4 pinned tools",
+      "⌨️ Latin Swipe Typing, Smarter Glide Delete & Text Shortcuts",
+      "🇧🇩 Avro/Bornokromik Upgrades, Atma Font, Kaomoji & Custom Sound Packs",
+      "📋 Gboard-style Clipboard batch Edit Mode & Search comma fix"
     ],
-    "actionLabel": "Download v1.4.6 Update (APK)",
-    "actionUrl": "https://github.com/fahitakrim/Orbit-Board/releases/download/v1.4.6/Orbit-Board-v1.4.6-arm64-release.apk",
+    "actionLabel": "Download v2.0.0 Update (APK)",
+    "actionUrl": "https://github.com/fahitakrim/my-artifacts/releases/download/orbitboard-v2.0.0/Orbit-Board-v2.0.0-arm64-stable-release.apk",
     "secondaryActionLabel": "Later",
     "minVersionCode": 1,
-    "maxVersionCode": 12405,
+    "maxVersionCode": 19999,
     "isCritical": true,
     "autoShow": true
   },

@@ -14,7 +14,7 @@
   Welcome to the official distribution hub for the <b>Orbit Ecosystem</b>. Handcrafted Android applications engineered with a distinctive <b>Nothing OS & Bauhaus aesthetic</b>, uncompromising privacy, and fluid performance by <b><a href="https://x.com/TakrimFahim">Fahim Takrim</a></b>.
 </p>
 
-### 📲 [Browse All Releases](https://github.com/fahitakrim/my-artifacts/releases) · [Orbit Music APK (v3.6.3)](https://github.com/fahitakrim/my-artifacts/releases/download/v3.6.3/Orbit-Music-v3.6.3.apk) · [Orbit Music Extended APK (v1.0.0)](https://github.com/fahitakrim/my-artifacts/releases/download/orbitmusic-extended-v1.0.0/Orbit-Music-Extended-v1.0.0.apk) · [Orbit Board APK (v1.4.6)](https://github.com/fahitakrim/Orbit-Board/releases/tag/v1.4.6) · [Orbitwall APK (v1.1.5)](https://github.com/fahitakrim/my-artifacts/releases/download/orbitwall-latest/Orbitwall.apk)
+### 📲 [Browse All Releases](https://github.com/fahitakrim/my-artifacts/releases) · [Orbit Music APK (v3.6.3)](https://github.com/fahitakrim/my-artifacts/releases/download/v3.6.3/Orbit-Music-v3.6.3.apk) · [Orbit Music Extended APK (v1.0.0)](https://github.com/fahitakrim/my-artifacts/releases/download/orbitmusic-extended-v1.0.0/Orbit-Music-Extended-v1.0.0.apk) · [Orbit Board APK (v2.0.0)](https://github.com/fahitakrim/my-artifacts/releases/download/orbitboard-v2.0.0/Orbit-Board-v2.0.0-arm64-stable-release.apk) · [Orbitwall APK (v1.1.5)](https://github.com/fahitakrim/my-artifacts/releases/download/orbitwall-latest/Orbitwall.apk)
 
 </div>
 
@@ -26,7 +26,7 @@
 | :--- | :--- | :---: | :---: | :---: |
 | 🎵 **Orbit Music** | Minimalist Offline Music Player | `v3.6.3` Stable | [⬇️ Download APK (12.2 MB)](https://github.com/fahitakrim/my-artifacts/releases/download/v3.6.3/Orbit-Music-v3.6.3.apk) | [v3.6.3 Notes](https://github.com/fahitakrim/my-artifacts/releases/tag/v3.6.3) |
 | 🎧 **Orbit Music Extended** | Online + Offline Streaming & Hi-Res Player | `v1.0.0` Extended | [⬇️ Download APK (13.7 MB)](https://github.com/fahitakrim/my-artifacts/releases/download/orbitmusic-extended-v1.0.0/Orbit-Music-Extended-v1.0.0.apk) | [v1.0.0 Notes](https://github.com/fahitakrim/my-artifacts/releases/tag/orbitmusic-extended-v1.0.0) |
-| ⌨️ **Orbit Board** | Nothing OS Keyboard & Bengali Layouts | `v1.4.6` Stable | [⬇️ Download APK (12.8 MB)](https://github.com/fahitakrim/Orbit-Board/releases/tag/v1.4.6) | [v1.4.6 Notes](https://github.com/fahitakrim/Orbit-Board/releases/tag/v1.4.6) |
+| ⌨️ **Orbit Board** | Nothing OS Keyboard & Bengali Layouts | `v2.0.0` Stable | [⬇️ Download APK (13.4 MB)](https://github.com/fahitakrim/my-artifacts/releases/download/orbitboard-v2.0.0/Orbit-Board-v2.0.0-arm64-stable-release.apk) | [v2.0.0 Notes](https://github.com/fahitakrim/my-artifacts/releases/tag/orbitboard-v2.0.0) |
 | 🪐 **Orbitwall** | 4K Wallpaper & Lockscreen Clocks | `v1.1.5` Latest | [⬇️ Download APK (2.8 MB)](https://github.com/fahitakrim/my-artifacts/releases/download/orbitwall-latest/Orbitwall.apk) | [v1.1.5 Notes](https://github.com/fahitakrim/my-artifacts/releases/tag/v1.1.5) |
 
 ---
@@ -115,26 +115,23 @@
 
 > *A private, minimal Android keyboard crafted specifically with a Nothing OS aesthetic and complete Bengali layout support (Avro, Jatiyo, Probhat, Bangla).*
 
-[![Version](https://img.shields.io/badge/Version-v1.4.6%20Stable-E51C23?style=flat-square)](https://github.com/fahitakrim/Orbit-Board/releases/tag/v1.4.6)
-[![Android](https://img.shields.io/badge/Android-8.0%2B-3DDC84?style=flat-square&logo=android)](https://github.com/fahitakrim/Orbit-Board/releases/tag/v1.4.6)
-[![Privacy](https://img.shields.io/badge/Privacy-100%25%20On--Device-blue?style=flat-square)](https://github.com/fahitakrim/Orbit-Board/releases/tag/v1.4.6)
-[![Theme](https://img.shields.io/badge/Theme-Nothing%20OS%20AMOLED-black?style=flat-square)](https://github.com/fahitakrim/Orbit-Board/releases/tag/v1.4.6)
+[![Version](https://img.shields.io/badge/Version-v2.0.0%20Stable-E51C23?style=flat-square)](https://github.com/fahitakrim/my-artifacts/releases/tag/orbitboard-v2.0.0)
+[![Android](https://img.shields.io/badge/Android-7.0%2B-3DDC84?style=flat-square&logo=android)](https://github.com/fahitakrim/my-artifacts/releases/tag/orbitboard-v2.0.0)
+[![Privacy](https://img.shields.io/badge/Privacy-100%25%20On--Device-blue?style=flat-square)](https://github.com/fahitakrim/my-artifacts/releases/tag/orbitboard-v2.0.0)
+[![Theme](https://img.shields.io/badge/Theme-Nothing%20OS%20AMOLED-black?style=flat-square)](https://github.com/fahitakrim/my-artifacts/releases/tag/orbitboard-v2.0.0)
 
-### ✨ Key Features (Orbit Board v1.4.6)
-* ⚙️ **Refactored Settings & Main App UI:** Clean, reorganized layout and custom spacebar styling (Boxy, Bauhaus, Rounded).
-* 🎨 **New Themes:** 3 new special themes & 2 new regular themes added *(more coming soon!)*.
-* 🇧🇩 **New Library for Avro:** Upgraded phonetic engine with zero-shift conjuncts (যুক্তবর্ণ) — *let us know how your writing experience feels now!*
-* ⚡ **App Size Optimization:** 55% smaller package size (reduced from 28.5 MB down to 12.8 MB).
-* 🌐 **Translation Improvement:** Fixed premature closure bug; type and translate smoothly in real-time.
-* 🎙️ **Voice Typing Improvement:** Continuous dictation with extended timeout and instant speech trigger.
-* 📳 **Haptic Improvement:** Real-time slider scaling and tactile feedback tuning.
-* ✂️ **Text Edit Action Improvement:** Added Select All and Cut keys with universal clipboard compatibility.
-* 🛡️ **Stability & Performance:** Eliminated startup crashes on Chinese OEM ROMs and optimized 120Hz display loop.
+### ✨ Key Features (Orbit Board v2.0.0)
+* 🔴 **New App Icon & Monored Theme:** Fresh 2x2 Orbit Board icon, monochrome icon support, dark splash screen, and the 4-tone **Monored** keyboard theme.
+* 🎨 **5-Tab Studio & Live Preview:** See real-time edits across `EN`, `Avro`, `বর্ণক্রম`, and `?123`, pick **Monet (You)** or custom colors with the **Color Wheel** and **Hex Keypad**, apply **Wallpapers** with **Solid / Glass / Float** effects, save custom presets, and use **10-step Undo**.
+* 🧭 **Dynamic Action Bar & 4 Pinned Tools:** Pin the top menu (`>`) so it hides while you type (staying through Spacebar) and returns automatically on **Enter**, **Full Stop**, or when empty; unpinned cleanly shows up to **4 pinned actions**.
+* ⌨️ **Latin Swipe Typing & Smarter Glide Delete:** Glide across keys to type faster with a matching floating preview *(Avro stays tap-only)*, plus word-by-word backspace swipe with one-tap Undo.
+* 🇧🇩 **Richer Bengali & Quick Shortcuts:** Expanded Avro/Banglish suggestions, cleaner Bengali centering, smart Bornokromik কার/যুক্তবর্ণ strips, **Text Shortcuts**, **Kaomoji**, **Atma Bangla** font, and **Laser Flow** tap effects.
+* 🔊 **Custom Key Sounds, Clipboard Batch Mode & Search Fix:** Choose **Mechanical**, **Pop**, **Soft**, or custom WAV sounds, batch-edit clipboard clips, tune vibration smoothly, and keep `,` on the main board in URL/Search fields.
 
 ### 📥 Download Orbit Board APK
-* **ARM64-v8a Direct APK:** [Orbit-Board-v1.4.6-arm64-release.apk](https://github.com/fahitakrim/Orbit-Board/releases/download/v1.4.6/Orbit-Board-v1.4.6-arm64-release.apk) *(12.8 MB, Recommended)*
-* **Universal Direct APK:** [Orbit-Board-v1.4.6-universal-release.apk](https://github.com/fahitakrim/Orbit-Board/releases/download/v1.4.6/Orbit-Board-v1.4.6-universal-release.apk) *(15.9 MB)*
-* **GitHub Release Page:** [Orbit Board v1.4.6 Release](https://github.com/fahitakrim/Orbit-Board/releases/tag/v1.4.6)
+* **ARM64-v8a Direct APK:** [Orbit-Board-v2.0.0-arm64-stable-release.apk](https://github.com/fahitakrim/my-artifacts/releases/download/orbitboard-v2.0.0/Orbit-Board-v2.0.0-arm64-stable-release.apk) *(13.4 MB, Recommended)*
+* **Universal Direct APK:** [Orbit-Board-v2.0.0-universal-stable-release.apk](https://github.com/fahitakrim/my-artifacts/releases/download/orbitboard-v2.0.0/Orbit-Board-v2.0.0-universal-stable-release.apk) *(16.4 MB)*
+* **GitHub Release Page:** [Orbit Board v2.0.0 Release](https://github.com/fahitakrim/my-artifacts/releases/tag/orbitboard-v2.0.0)
 
 ---
 
