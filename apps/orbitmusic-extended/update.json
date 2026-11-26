@@ -1,0 +1,12 @@
+{
+  "latestVersion": "1.0.0",
+  "versionCode": 1,
+  "title": "Orbit Music Extended v1.0.0",
+  "downloadUrl": "https://github.com/fahitakrim/my-artifacts/releases/download/orbitmusic-extended-v1.0.0/Orbit-Music-Extended-v1.0.0.apk",
+  "changelog": [
+    "Online music streaming with infinite radio autoplay and smart recommendations",
+    "Hybrid playlists & favorites supporting both online tracks and local music",
+    "Streaming quality settings, smart caching, and 1:1 Boxy progress scrubber",
+    "Liquid Glass optics and Nothing OS / Bauhaus Glyph design"
+  ]
+}

@@ -14,7 +14,7 @@
   Welcome to the official distribution hub for the <b>Orbit Ecosystem</b>. Handcrafted Android applications engineered with a distinctive <b>Nothing OS & Bauhaus aesthetic</b>, uncompromising privacy, and fluid performance by <b><a href="https://x.com/TakrimFahim">Fahim Takrim</a></b>.
 </p>
 
-### 📲 [Browse All Releases](https://github.com/fahitakrim/my-artifacts/releases) · [Orbit Music APK (v3.6.3)](https://github.com/fahitakrim/my-artifacts/releases/download/v3.6.3/Orbit-Music-v3.6.3.apk) · [Orbit Music Extended](https://github.com/fahitakrim/Orbit-music-extended) · [Orbit Board APK (v1.4.6)](https://github.com/fahitakrim/Orbit-Board/releases/tag/v1.4.6) · [Orbitwall APK (v1.1.5)](https://github.com/fahitakrim/my-artifacts/releases/download/orbitwall-latest/Orbitwall.apk)
+### 📲 [Browse All Releases](https://github.com/fahitakrim/my-artifacts/releases) · [Orbit Music APK (v3.6.3)](https://github.com/fahitakrim/my-artifacts/releases/download/v3.6.3/Orbit-Music-v3.6.3.apk) · [Orbit Music Extended APK (v1.0.0)](https://github.com/fahitakrim/my-artifacts/releases/download/orbitmusic-extended-v1.0.0/Orbit-Music-Extended-v1.0.0.apk) · [Orbit Board APK (v1.4.6)](https://github.com/fahitakrim/Orbit-Board/releases/tag/v1.4.6) · [Orbitwall APK (v1.1.5)](https://github.com/fahitakrim/my-artifacts/releases/download/orbitwall-latest/Orbitwall.apk)
 
 </div>
 
@@ -25,7 +25,7 @@
 | Application | Category | Latest Version | Direct Download | Release Notes |
 | :--- | :--- | :---: | :---: | :---: |
 | 🎵 **Orbit Music** | Minimalist Offline Music Player | `v3.6.3` Stable | [⬇️ Download APK (12.2 MB)](https://github.com/fahitakrim/my-artifacts/releases/download/v3.6.3/Orbit-Music-v3.6.3.apk) | [v3.6.3 Notes](https://github.com/fahitakrim/my-artifacts/releases/tag/v3.6.3) |
-| 🎧 **Orbit Music Extended** | Online + Offline Streaming & Hi-Res Player | `v1.0.0` Extended | [🔗 Repository & Builds](https://github.com/fahitakrim/Orbit-music-extended) | [Source & Changelog](https://github.com/fahitakrim/Orbit-music-extended/commits/main) |
+| 🎧 **Orbit Music Extended** | Online + Offline Streaming & Hi-Res Player | `v1.0.0` Extended | [⬇️ Download APK (13.7 MB)](https://github.com/fahitakrim/my-artifacts/releases/download/orbitmusic-extended-v1.0.0/Orbit-Music-Extended-v1.0.0.apk) | [v1.0.0 Notes](https://github.com/fahitakrim/my-artifacts/releases/tag/orbitmusic-extended-v1.0.0) |
 | ⌨️ **Orbit Board** | Nothing OS Keyboard & Bengali Layouts | `v1.4.6` Stable | [⬇️ Download APK (12.8 MB)](https://github.com/fahitakrim/Orbit-Board/releases/tag/v1.4.6) | [v1.4.6 Notes](https://github.com/fahitakrim/Orbit-Board/releases/tag/v1.4.6) |
 | 🪐 **Orbitwall** | 4K Wallpaper & Lockscreen Clocks | `v1.1.5` Latest | [⬇️ Download APK (2.8 MB)](https://github.com/fahitakrim/my-artifacts/releases/download/orbitwall-latest/Orbitwall.apk) | [v1.1.5 Notes](https://github.com/fahitakrim/my-artifacts/releases/tag/v1.1.5) |
 
@@ -106,7 +106,8 @@
 * 🎚️ **Full Streaming Settings & Smart Caching:** Wi-Fi/Cellular quality tiers (Auto, Dolby Atmos, Hi-Res, CD, 320k, YTM, Data Saver), live `DynamicLoadControl`, `SimpleCache` with stable canonical keys, and `MediaLibraryService` (Android Auto / Bluetooth browsing).
 * 💎 **Liquid Glass, Bauhaus Glyph & 1:1 Boxy Scrubber:** Real-time AGSL Liquid Glass optics, vibrant Bauhaus Glyph accents, and a tactile 14dp pill scrubber with vertical floating thumb and scrub haptics.
 
-* **GitHub Repository:** [fahitakrim/Orbit-music-extended](https://github.com/fahitakrim/Orbit-music-extended)
+* **Direct Official APK:** [Orbit-Music-Extended-v1.0.0.apk (13.7 MB)](https://github.com/fahitakrim/my-artifacts/releases/download/orbitmusic-extended-v1.0.0/Orbit-Music-Extended-v1.0.0.apk)
+* **Release Page:** [Orbit Music Extended v1.0.0](https://github.com/fahitakrim/my-artifacts/releases/tag/orbitmusic-extended-v1.0.0)
 
 ---
 
