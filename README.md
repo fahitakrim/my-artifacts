@@ -14,7 +14,7 @@
   Welcome to the official distribution hub for the <b>Orbit Ecosystem</b>. Handcrafted Android applications engineered with a distinctive <b>Nothing OS & Bauhaus aesthetic</b>, uncompromising privacy, and fluid performance by <b><a href="https://x.com/TakrimFahim">Fahim Takrim</a></b>.
 </p>
 
-### 📲 [Browse All Releases](https://github.com/fahitakrim/my-artifacts/releases) · [Orbit Music APK (v3.6.3)](https://github.com/fahitakrim/my-artifacts/releases/download/v3.6.3/Orbit-Music-v3.6.3.apk) · [Orbit Board APK (v1.4.6)](https://github.com/fahitakrim/Orbit-Board/releases/tag/v1.4.6) · [Orbitwall APK (v1.1.5)](https://github.com/fahitakrim/my-artifacts/releases/download/orbitwall-latest/Orbitwall.apk)
+### 📲 [Browse All Releases](https://github.com/fahitakrim/my-artifacts/releases) · [Orbit Music APK (v3.6.3)](https://github.com/fahitakrim/my-artifacts/releases/download/v3.6.3/Orbit-Music-v3.6.3.apk) · [Orbit Music Extended](https://github.com/fahitakrim/Orbit-music-extended) · [Orbit Board APK (v1.4.6)](https://github.com/fahitakrim/Orbit-Board/releases/tag/v1.4.6) · [Orbitwall APK (v1.1.5)](https://github.com/fahitakrim/my-artifacts/releases/download/orbitwall-latest/Orbitwall.apk)
 
 </div>
 
@@ -25,6 +25,7 @@
 | Application | Category | Latest Version | Direct Download | Release Notes |
 | :--- | :--- | :---: | :---: | :---: |
 | 🎵 **Orbit Music** | Minimalist Offline Music Player | `v3.6.3` Stable | [⬇️ Download APK (12.2 MB)](https://github.com/fahitakrim/my-artifacts/releases/download/v3.6.3/Orbit-Music-v3.6.3.apk) | [v3.6.3 Notes](https://github.com/fahitakrim/my-artifacts/releases/tag/v3.6.3) |
+| 🎧 **Orbit Music Extended** | Online + Offline Streaming & Hi-Res Player | `v1.0.0` Extended | [🔗 Repository & Builds](https://github.com/fahitakrim/Orbit-music-extended) | [Source & Changelog](https://github.com/fahitakrim/Orbit-music-extended/commits/main) |
 | ⌨️ **Orbit Board** | Nothing OS Keyboard & Bengali Layouts | `v1.4.6` Stable | [⬇️ Download APK (12.8 MB)](https://github.com/fahitakrim/Orbit-Board/releases/tag/v1.4.6) | [v1.4.6 Notes](https://github.com/fahitakrim/Orbit-Board/releases/tag/v1.4.6) |
 | 🪐 **Orbitwall** | 4K Wallpaper & Lockscreen Clocks | `v1.1.5` Latest | [⬇️ Download APK (2.8 MB)](https://github.com/fahitakrim/my-artifacts/releases/download/orbitwall-latest/Orbitwall.apk) | [v1.1.5 Notes](https://github.com/fahitakrim/my-artifacts/releases/tag/v1.1.5) |
 
@@ -36,6 +37,7 @@
   - [📸 Screenshots Showcase](#-orbit-music-screenshots)
   - [🎵 Supported Audio Formats](#-supported-audio-formats)
   - [📥 Download Orbit Music APK](#-download-orbit-music-apk)
+- [1B. Orbit Music Extended — Online & Offline Streaming Edition](#1b-orbit-music-extended--online--offline-streaming-edition)
 - [2. Orbit Board — Private Nothing OS Keyboard](#2-orbit-board--private-nothing-os-keyboard)
   - [✨ Key Features](#-key-features-orbit-board-v139)
   - [📥 Download Orbit Board APK](#-download-orbit-board-apk)
@@ -86,6 +88,25 @@
 ### 📥 Download Orbit Music APK
 * **Direct Official APK:** [Orbit-Music-v3.6.3.apk (12.2 MB)](https://github.com/fahitakrim/my-artifacts/releases/download/v3.6.3/Orbit-Music-v3.6.3.apk)
 * **Release Notes & Changelog:** [Orbit Music v3.6.3 Stable Release](https://github.com/fahitakrim/my-artifacts/releases/tag/v3.6.3)
+
+---
+
+## 1B. Orbit Music Extended — Online & Offline Streaming Edition
+
+> **Orbit Music Extended** brings full online streaming (YouTube Music InnerTube + Hi-Res HTTP Addon), adaptive taste recommendations, hybrid online+local playlists, and true Chromatic Liquid Glass optics to Orbit Music's Nothing OS & Bauhaus design.
+
+[![Source](https://img.shields.io/badge/Source-Orbit--music--extended-E5252A?style=flat-square&logo=github)](https://github.com/fahitakrim/Orbit-music-extended)
+[![Platform](https://img.shields.io/badge/Android-9.0%2B%20(API%2028--35)-3DDC84?style=flat-square&logo=android)](https://github.com/fahitakrim/Orbit-music-extended)
+[![Streaming](https://img.shields.io/badge/Streaming-InnerTube%20%2B%20Hi--Res%20Addon-blue?style=flat-square)](https://github.com/fahitakrim/Orbit-music-extended)
+
+### ✨ Extended Features
+* 🌐 **Online Explore, Autoplay & Similar Tracks:** Full YouTube Music song search pagination, "Similar & Up Next" recommendations, and continuous `/next` radio auto-fill.
+* 🧠 **Adaptive Background Taste Engine:** Scores play history, recency, early-skip penalties, favorites, and time-of-day affinity to power *Mixed for You*, *Because You Listen to...*, and *Jump Back In* shelves.
+* 📂 **Hybrid Online + Local Playlists & Favorites:** Add online tracks directly to playlists alongside local FLAC/MP3 files, play seamlessly from `Library → Playlists` and `Favorites`, and tap any currently playing track to expand Now Playing without restarting.
+* 🎚️ **Full Streaming Settings & Smart Caching:** Wi-Fi/Cellular quality tiers (Auto, Dolby Atmos, Hi-Res, CD, 320k, YTM, Data Saver), live `DynamicLoadControl`, `SimpleCache` with stable canonical keys, and `MediaLibraryService` (Android Auto / Bluetooth browsing).
+* 💎 **Liquid Glass, Bauhaus Glyph & 1:1 Boxy Scrubber:** Real-time AGSL Liquid Glass optics, vibrant Bauhaus Glyph accents, and a tactile 14dp pill scrubber with vertical floating thumb and scrub haptics.
+
+* **GitHub Repository:** [fahitakrim/Orbit-music-extended](https://github.com/fahitakrim/Orbit-music-extended)
 
 ---
 
